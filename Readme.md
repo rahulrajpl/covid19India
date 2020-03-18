@@ -1,7 +1,6 @@
 # Covid-19 Statistics in India
 
-![line](/imgs/line.gif)
-![line](/imgs/bubble.gif)
+![line](/imgs/demo.gif)
 
 
 Interactive analytics on Covid-19 India data. Click the following links to access them.

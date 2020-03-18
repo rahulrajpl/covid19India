@@ -1,6 +1,10 @@
 # Covid-19 Statistics in India
 
-Interactive analytics on Covid-19 India data. Click the following links to view them.
+![line](/imgs/line.gif)
+![line](/imgs/bubble.gif)
+
+
+Interactive analytics on Covid-19 India data. Click the following links to access them.
 
 - [Line Chart](http://randomwalk.in/covid19India/line/) (Last Update: 18 Mar 2020)
 

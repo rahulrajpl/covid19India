@@ -19,5 +19,5 @@ Interactive analytics on Covid-19 India data. Click the following links to view 
 ## Feedback
 
 
-Submit feedback and comments at https://twitter.com/rahulrajpl.
+Submit feedback and comments to https://twitter.com/rahulrajpl.
 Thank you.

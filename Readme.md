@@ -1,15 +1,23 @@
+# Covid-19 Statistics in India
 
-This repo contains data forked from https://github.com/imdevskp/covid-19-india-data 
+Interactive analytics on Covid-19 India data. Click the following links to view them.
 
-Click the following links to view the analytics
-
-- [LineChart](http://randomwalk.in/covid19India/line/) (Last Update: 18 Mar 2020)
+- [Line Chart](http://randomwalk.in/covid19India/line/) (Last Update: 18 Mar 2020)
 
 - [Bubble Chart](http://randomwalk.in/covid19India/bubble/) (Last Update: 18 Mar 2020)
 
 
 ------------------------------------------
+
 ## Credits
 
-- Made by: Rahul Raj
-- Contact: twitter.com/rahulrajpl
+- Analytics by: [Rahul Raj](https://twitter.com/rahulrajpl)
+- Data Collection by: [Devakumar kp](https://github.com/imdevskp)
+
+------------------------------------------
+
+## Feedback
+
+
+Submit feedback and comments at https://twitter.com/rahulrajpl.
+Thank you.

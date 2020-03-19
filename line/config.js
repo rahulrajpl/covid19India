@@ -1,8 +1,8 @@
 var CONFIG = {
  "data": {
-  "_lastModified": 1584513844690,
+  "_lastModified": 1584621093800,
   "hasNameColumn": false,
-  "lastModified": 1584513844690,
+  "lastModified": 1584621093800,
   "nameColumnPosition": 0,
   "noCache": true,
   "path": "./data/complete_modified_date.csv",
@@ -190,10 +190,10 @@ var CONFIG = {
    "delayThresholdX2": 90,
    "delayThresholdX4": 45,
    "dim": "Date",
-   "end": "20200318",
-   "endBeforeForecast": "20200317",
+   "end": "20200319",
+   "endBeforeForecast": "20200318",
    "endOrigin": null,
-   "endSelected": "20200318",
+   "endSelected": "20200319",
    "format": {
     "data": null,
     "ui": null
@@ -212,7 +212,7 @@ var CONFIG = {
    "startSelected": "20200130",
    "step": 1,
    "unit": "day",
-   "value": "20200318"
+   "value": "20200319"
   }
  },
  "ui": {

@@ -1,8 +1,8 @@
 var CONFIG = {
  "data": {
-  "_lastModified": 1584512031566,
+  "_lastModified": 1584620925968,
   "hasNameColumn": false,
-  "lastModified": 1584512031566,
+  "lastModified": 1584620925968,
   "nameColumnPosition": 0,
   "noCache": true,
   "path": "./data/complete_modified_date.csv",
@@ -93,7 +93,7 @@ var CONFIG = {
     "spaceRef": null,
     "syncModels": [],
     "use": "indicator",
-    "which": "Cured/Discharged",
+    "which": "Cured/Discharged/Migrated",
     "zoomedMax": null,
     "zoomedMin": null
    },
@@ -152,55 +152,10 @@ var CONFIG = {
    "limit": 5000,
    "opacityHighlightDim": 0.1,
    "opacityRegular": 1,
-   "opacitySelectDim": 1,
+   "opacitySelectDim": 0.3,
    "select": [
     {
-     "Name of State / UT": "West Bengal"
-    },
-    {
-     "Name of State / UT": "Uttarakhand"
-    },
-    {
-     "Name of State / UT": "Union Territory of Ladakh"
-    },
-    {
-     "Name of State / UT": "Telengana"
-    },
-    {
-     "Name of State / UT": "Punjab"
-    },
-    {
      "Name of State / UT": "Maharashtra"
-    },
-    {
-     "Name of State / UT": "Karnataka"
-    },
-    {
-     "Name of State / UT": "Haryana"
-    },
-    {
-     "Name of State / UT": "Delhi"
-    },
-    {
-     "Name of State / UT": "Union Territory of Jammu and Kashmir"
-    },
-    {
-     "Name of State / UT": "Tamil Nadu"
-    },
-    {
-     "Name of State / UT": "Rajasthan"
-    },
-    {
-     "Name of State / UT": "Odisha"
-    },
-    {
-     "Name of State / UT": "Kerala"
-    },
-    {
-     "Name of State / UT": "Andhra Pradesh"
-    },
-    {
-     "Name of State / UT": "Uttar Pradesh"
     }
    ],
    "size": {
@@ -251,12 +206,11 @@ var CONFIG = {
     "domainMax": null,
     "domainMin": null,
     "extent": [
-     0.12,
-     0.19
+     0,
+     0.33
     ],
     "fixBaseline": 0,
     "scaleType": "ordinal",
-    "spaceRef": null,
     "syncModels": [],
     "use": "constant",
     "which": "_default",
@@ -304,14 +258,14 @@ var CONFIG = {
    "autoconfig": {
     "type": "time"
    },
-   "delay": 1200,
+   "delay": 902,
    "delayThresholdX2": 90,
    "delayThresholdX4": 45,
    "dim": "Date",
-   "end": "20200318",
-   "endBeforeForecast": "20200317",
+   "end": "20200319",
+   "endBeforeForecast": "20200318",
    "endOrigin": null,
-   "endSelected": "20200318",
+   "endSelected": "20200319",
    "format": {
     "data": null,
     "ui": null
@@ -319,7 +273,7 @@ var CONFIG = {
    "immediatePlay": true,
    "loop": false,
    "offset": 0,
-   "pauseBeforeForecast": false,
+   "pauseBeforeForecast": true,
    "playable": true,
    "playing": false,
    "record": false,
@@ -327,7 +281,7 @@ var CONFIG = {
    "showForecast": true,
    "start": "20200130",
    "startOrigin": null,
-   "startSelected": "20200130",
+   "startSelected": "20200309",
    "step": 1,
    "unit": "day",
    "value": "20200318"
@@ -353,7 +307,7 @@ var CONFIG = {
    },
    "labels": {
     "dragging": true,
-    "removeLabelBox": true
+    "removeLabelBox": false
    },
    "lockNonSelected": 0,
    "margin": {

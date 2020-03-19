@@ -5,9 +5,9 @@
 
 Interactive analytics on Covid-19 India data. Click the following links to access them.
 
-- [Line Chart](http://randomwalk.in/covid19India/line/) (Last Update: 18 Mar 2020)
+- [Line Chart](http://randomwalk.in/covid19India/line/) (Last Update: 19 Mar 2020)
 
-- [Bubble Chart](http://randomwalk.in/covid19India/bubble/) (Last Update: 18 Mar 2020)
+- [Bubble Chart](http://randomwalk.in/covid19India/bubble/) (Last Update: 19 Mar 2020)
 
 
 ------------------------------------------

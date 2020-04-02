@@ -1,42 +1,33 @@
 Region,Date,Confirmed,Recovered/Migrated,Deceased
 Kerala,20200130,1.0,0.0,0.0
-National Total,20200130,1.0,0.0,0.0
 Kerala,20200202,2.0,0.0,0.0
-National Total,20200202,2.0,0.0,0.0
 Kerala,20200203,3.0,0.0,0.0
-National Total,20200203,3.0,0.0,0.0
 Kerala,20200214,3.0,3.0,0.0
-National Total,20200214,3.0,3.0,0.0
 Delhi,20200302,1.0,0.0,0.0
 Kerala,20200302,3.0,3.0,0.0
 Telangana,20200302,1.0,1.0,0.0
-National Total,20200302,5.0,4.0,0.0
 Delhi,20200303,1.0,0.0,0.0
 Kerala,20200303,3.0,3.0,0.0
 Rajasthan,20200303,1.0,1.0,0.0
 Telangana,20200303,1.0,1.0,0.0
-National Total,20200303,6.0,5.0,0.0
 Delhi,20200304,1.0,0.0,0.0
 Haryana,20200304,14.0,0.0,0.0
 Kerala,20200304,3.0,3.0,0.0
 Rajasthan,20200304,2.0,2.0,0.0
 Telangana,20200304,1.0,1.0,0.0
 Uttar Pradesh,20200304,7.0,0.0,0.0
-National Total,20200304,28.0,6.0,0.0
 Delhi,20200305,2.0,0.0,0.0
 Haryana,20200305,14.0,0.0,0.0
 Kerala,20200305,3.0,3.0,0.0
 Rajasthan,20200305,2.0,2.0,0.0
 Telangana,20200305,1.0,1.0,0.0
 Uttar Pradesh,20200305,8.0,1.0,0.0
-National Total,20200305,30.0,7.0,0.0
 Delhi,20200306,3.0,0.0,0.0
 Haryana,20200306,14.0,0.0,0.0
 Kerala,20200306,3.0,3.0,0.0
 Rajasthan,20200306,2.0,2.0,0.0
 Telangana,20200306,1.0,1.0,0.0
 Uttar Pradesh,20200306,8.0,1.0,0.0
-National Total,20200306,31.0,7.0,0.0
 Delhi,20200307,3.0,0.0,0.0
 Haryana,20200307,14.0,0.0,0.0
 Kerala,20200307,3.0,3.0,0.0
@@ -45,7 +36,6 @@ Rajasthan,20200307,2.0,2.0,0.0
 Tamil Nadu,20200307,1.0,1.0,0.0
 Telangana,20200307,1.0,1.0,0.0
 Uttar Pradesh,20200307,8.0,1.0,0.0
-National Total,20200307,34.0,8.0,0.0
 Delhi,20200308,3.0,0.0,0.0
 Haryana,20200308,14.0,0.0,0.0
 Kerala,20200308,8.0,3.0,0.0
@@ -54,7 +44,6 @@ Rajasthan,20200308,2.0,2.0,0.0
 Tamil Nadu,20200308,1.0,1.0,0.0
 Telangana,20200308,1.0,1.0,0.0
 Uttar Pradesh,20200308,8.0,1.0,0.0
-National Total,20200308,39.0,8.0,0.0
 Delhi,20200309,4.0,0.0,0.0
 Haryana,20200309,14.0,0.0,0.0
 Jammu and Kashmir,20200309,1.0,0.0,0.0
@@ -67,7 +56,6 @@ Rajasthan,20200309,2.0,2.0,0.0
 Tamil Nadu,20200309,1.0,1.0,0.0
 Telangana,20200309,1.0,1.0,0.0
 Uttar Pradesh,20200309,10.0,2.0,0.0
-National Total,20200309,48.0,10.0,0.0
 Delhi,20200310,4.0,0.0,0.0
 Haryana,20200310,14.0,0.0,0.0
 Jammu and Kashmir,20200310,1.0,0.0,0.0
@@ -80,7 +68,6 @@ Rajasthan,20200310,3.0,3.0,0.0
 Tamil Nadu,20200310,1.0,1.0,0.0
 Telangana,20200310,1.0,1.0,0.0
 Uttar Pradesh,20200310,10.0,2.0,0.0
-National Total,20200310,63.0,13.0,0.0
 Delhi,20200311,5.0,0.0,0.0
 Haryana,20200311,14.0,0.0,0.0
 Jammu and Kashmir,20200311,1.0,0.0,0.0
@@ -93,7 +80,6 @@ Rajasthan,20200311,3.0,3.0,0.0
 Tamil Nadu,20200311,1.0,1.0,0.0
 Telangana,20200311,1.0,1.0,0.0
 Uttar Pradesh,20200311,10.0,2.0,0.0
-National Total,20200311,70.0,13.0,0.0
 Andhra Pradesh,20200312,1.0,0.0,0.0
 Delhi,20200312,6.0,0.0,1.0
 Haryana,20200312,14.0,0.0,0.0
@@ -107,7 +93,6 @@ Rajasthan,20200312,3.0,3.0,0.0
 Tamil Nadu,20200312,1.0,1.0,0.0
 Telangana,20200312,1.0,1.0,0.0
 Uttar Pradesh,20200312,12.0,2.0,0.0
-National Total,20200312,82.0,13.0,3.0
 Andhra Pradesh,20200313,1.0,0.0,0.0
 Delhi,20200313,7.0,0.0,1.0
 Haryana,20200313,14.0,0.0,0.0
@@ -121,7 +106,6 @@ Rajasthan,20200313,3.0,3.0,0.0
 Tamil Nadu,20200313,1.0,1.0,0.0
 Telangana,20200313,1.0,1.0,0.0
 Uttar Pradesh,20200313,13.0,2.0,0.0
-National Total,20200313,91.0,13.0,3.0
 Andhra Pradesh,20200314,1.0,0.0,0.0
 Delhi,20200314,7.0,0.0,1.0
 Haryana,20200314,14.0,0.0,0.0
@@ -135,7 +119,6 @@ Rajasthan,20200314,4.0,3.0,0.0
 Tamil Nadu,20200314,1.0,1.0,0.0
 Telangana,20200314,2.0,1.0,0.0
 Uttar Pradesh,20200314,13.0,2.0,0.0
-National Total,20200314,107.0,13.0,3.0
 Andhra Pradesh,20200315,1.0,0.0,0.0
 Delhi,20200315,7.0,2.0,1.0
 Haryana,20200315,14.0,0.0,0.0
@@ -150,7 +133,6 @@ Tamil Nadu,20200315,1.0,1.0,0.0
 Telangana,20200315,3.0,1.0,0.0
 Uttar Pradesh,20200315,13.0,2.0,0.0
 Uttarakhand,20200315,1.0,0.0,0.0
-National Total,20200315,113.0,15.0,3.0
 Andhra Pradesh,20200316,1.0,0.0,0.0
 Delhi,20200316,7.0,2.0,1.0
 Haryana,20200316,14.0,0.0,0.0
@@ -166,7 +148,6 @@ Tamil Nadu,20200316,1.0,1.0,0.0
 Telangana,20200316,4.0,1.0,0.0
 Uttar Pradesh,20200316,13.0,2.0,0.0
 Uttarakhand,20200316,1.0,0.0,0.0
-National Total,20200316,127.0,15.0,3.0
 Andhra Pradesh,20200317,1.0,0.0,0.0
 Delhi,20200317,10.0,2.0,1.0
 Haryana,20200317,15.0,0.0,0.0
@@ -184,7 +165,6 @@ Telangana,20200317,5.0,1.0,0.0
 Uttar Pradesh,20200317,15.0,2.0,0.0
 Uttarakhand,20200317,1.0,0.0,0.0
 West Bengal,20200317,1.0,0.0,0.0
-National Total,20200317,146.0,15.0,3.0
 Andhra Pradesh,20200318,1.0,0.0,0.0
 Delhi,20200318,11.0,2.0,1.0
 Haryana,20200318,17.0,0.0,0.0
@@ -202,7 +182,6 @@ Telangana,20200318,13.0,1.0,0.0
 Uttar Pradesh,20200318,17.0,2.0,0.0
 Uttarakhand,20200318,1.0,0.0,0.0
 West Bengal,20200318,1.0,0.0,0.0
-National Total,20200318,171.0,15.0,3.0
 Andhra Pradesh,20200319,3.0,0.0,0.0
 Chandigarh,20200319,1.0,0.0,0.0
 Chhattisgarh,20200319,1.0,0.0,0.0
@@ -223,7 +202,6 @@ Telangana,20200319,16.0,1.0,0.0
 Uttar Pradesh,20200319,20.0,2.0,0.0
 Uttarakhand,20200319,3.0,1.0,0.0
 West Bengal,20200319,1.0,0.0,0.0
-National Total,20200319,199.0,16.0,4.0
 Andhra Pradesh,20200320,3.0,0.0,0.0
 Chandigarh,20200320,5.0,0.0,0.0
 Chhattisgarh,20200320,1.0,0.0,0.0
@@ -246,7 +224,6 @@ Telangana,20200320,19.0,1.0,0.0
 Uttar Pradesh,20200320,24.0,2.0,0.0
 Uttarakhand,20200320,3.0,1.0,0.0
 West Bengal,20200320,2.0,0.0,0.0
-National Total,20200320,258.0,21.0,4.0
 Andhra Pradesh,20200321,5.0,0.0,0.0
 Chandigarh,20200321,5.0,0.0,0.0
 Chhattisgarh,20200321,1.0,0.0,0.0
@@ -269,7 +246,6 @@ Telangana,20200321,21.0,1.0,0.0
 Uttar Pradesh,20200321,28.0,2.0,0.0
 Uttarakhand,20200321,3.0,1.0,0.0
 West Bengal,20200321,4.0,0.0,0.0
-National Total,20200321,334.0,21.0,4.0
 Andhra Pradesh,20200322,6.0,0.0,0.0
 Bihar,20200322,2.0,0.0,1.0
 Chandigarh,20200322,6.0,0.0,0.0
@@ -293,7 +269,6 @@ Telangana,20200322,27.0,1.0,0.0
 Uttar Pradesh,20200322,30.0,2.0,0.0
 Uttarakhand,20200322,3.0,1.0,0.0
 West Bengal,20200322,7.0,0.0,0.0
-National Total,20200322,403.0,21.0,7.0
 Andhra Pradesh,20200323,7.0,0.0,0.0
 Bihar,20200323,3.0,0.0,1.0
 Chandigarh,20200323,7.0,0.0,0.0
@@ -317,7 +292,6 @@ Telangana,20200323,33.0,1.0,0.0
 Uttar Pradesh,20200323,34.0,2.0,0.0
 Uttarakhand,20200323,4.0,1.0,0.0
 West Bengal,20200323,7.0,0.0,1.0
-National Total,20200323,505.0,22.0,9.0
 Andhra Pradesh,20200324,8.0,0.0,0.0
 Bihar,20200324,3.0,0.0,1.0
 Chandigarh,20200324,7.0,0.0,0.0
@@ -342,7 +316,6 @@ Telangana,20200324,39.0,1.0,0.0
 Uttar Pradesh,20200324,35.0,2.0,0.0
 Uttarakhand,20200324,4.0,1.0,0.0
 West Bengal,20200324,9.0,0.0,1.0
-National Total,20200324,571.0,26.0,10.0
 Andhra Pradesh,20200325,10.0,0.0,0.0
 Bihar,20200325,4.0,0.0,1.0
 Chandigarh,20200325,7.0,0.0,0.0
@@ -369,7 +342,6 @@ Telangana,20200325,41.0,1.0,0.0
 Uttar Pradesh,20200325,38.0,2.0,0.0
 Uttarakhand,20200325,5.0,1.0,0.0
 West Bengal,20200325,9.0,0.0,1.0
-National Total,20200325,657.0,28.0,13.0
 Andaman and Nicobar Islands,20200326,1.0,0.0,0.0
 Andhra Pradesh,20200326,11.0,0.0,0.0
 Bihar,20200326,7.0,0.0,1.0
@@ -397,7 +369,6 @@ Telangana,20200326,45.0,1.0,0.0
 Uttar Pradesh,20200326,42.0,2.0,0.0
 Uttarakhand,20200326,5.0,1.0,0.0
 West Bengal,20200326,10.0,0.0,1.0
-National Total,20200326,735.0,28.0,14.0
 Andaman and Nicobar Islands,20200327,6.0,0.0,0.0
 Andhra Pradesh,20200327,13.0,0.0,0.0
 Bihar,20200327,9.0,0.0,1.0
@@ -425,7 +396,6 @@ Telangana,20200327,59.0,1.0,0.0
 Uttar Pradesh,20200327,49.0,2.0,0.0
 Uttarakhand,20200327,5.0,1.0,0.0
 West Bengal,20200327,15.0,0.0,1.0
-National Total,20200327,886.0,31.0,16.0
 Andhra Pradesh,20200328,14.0,1.0,0.0
 Andaman and Nicobar Islands,20200328,6.0,0.0,0.0
 Bihar,20200328,9.0,0.0,1.0
@@ -453,7 +423,6 @@ Telengana,20200328,56.0,1.0,0.0
 Uttarakhand,20200328,5.0,0.0,0.0
 Uttar Pradesh,20200328,55.0,11.0,0.0
 West Bengal,20200328,15.0,0.0,1.0
-National Total,20200328,909.0,80.0,19.0
 Andhra Pradesh,20200329,14.0,1.0,0.0
 Andaman and Nicobar Islands,20200329,9.0,0.0,0.0
 Bihar,20200329,9.0,0.0,1.0
@@ -481,7 +450,6 @@ Telengana,20200329,66.0,1.0,1.0
 Uttarakhand,20200329,6.0,1.0,0.0
 Uttar Pradesh,20200329,55.0,11.0,0.0
 West Bengal,20200329,17.0,0.0,1.0
-National Total,20200329,979.0,87.0,25.0
 Andhra Pradesh,20200330,23.0,1.0,0.0
 Andaman and Nicobar Islands,20200330,9.0,0.0,0.0
 Bihar,20200330,15.0,0.0,1.0
@@ -509,7 +477,6 @@ Telengana,20200330,71.0,1.0,1.0
 Uttarakhand,20200330,7.0,2.0,0.0
 Uttar Pradesh,20200330,82.0,11.0,0.0
 West Bengal,20200330,22.0,0.0,1.0
-National Total,20200330,1205.0,102.0,31.0
 Andhra Pradesh,20200331,40.0,1.0,0.0
 Andaman and Nicobar Islands,20200331,10.0,0.0,0.0
 Bihar,20200331,15.0,0.0,1.0
@@ -537,7 +504,6 @@ Telengana,20200331,79.0,1.0,1.0
 Uttarakhand,20200331,7.0,2.0,0.0
 Uttar Pradesh,20200331,101.0,14.0,0.0
 West Bengal,20200331,26.0,0.0,2.0
-National Total,20200331,1359.0,124.0,35.0
 Andhra Pradesh,20200401,83.0,1.0,0.0
 Andaman and Nicobar Islands,20200401,10.0,0.0,0.0
 Bihar,20200401,23.0,0.0,1.0
@@ -565,7 +531,6 @@ Telengana,20200401,94.0,1.0,3.0
 Uttarakhand,20200401,7.0,2.0,0.0
 Uttar Pradesh,20200401,103.0,14.0,0.0
 West Bengal,20200401,26.0,0.0,2.0
-National Total,20200401,1637.0,133.0,38.0
 Andhra Pradesh,20200402,83.0,0.0,0.0
 Andaman and Nicobar Islands,20200402,10.0,1.0,0.0
 Assam,20200402,1.0,0.0,0.0
@@ -595,4 +560,3 @@ Telengana,20200402,96.0,1.0,3.0
 Uttarakhand,20200402,7.0,2.0,0.0
 Uttar Pradesh,20200402,103.0,14.0,2.0
 West Bengal,20200402,37.0,6.0,3.0
-National Total,20200402,1834.0,144.0,41.0

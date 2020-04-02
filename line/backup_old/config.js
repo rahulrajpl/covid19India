@@ -1,8 +1,8 @@
 var CONFIG = {
  "data": {
-  "_lastModified": 1585808710442,
+  "_lastModified": 1584621093800,
   "hasNameColumn": false,
-  "lastModified": 1585808710442,
+  "lastModified": 1584621093800,
   "nameColumnPosition": 0,
   "noCache": true,
   "path": "./data/complete_modified_date.csv",
@@ -23,7 +23,7 @@ var CONFIG = {
     ],
     "type": "entity_domain"
    },
-   "dim": "Region",
+   "dim": "Name of State / UT",
    "filter": {},
    "show": {},
    "showFallback": {},
@@ -37,7 +37,7 @@ var CONFIG = {
     ],
     "type": "entity_domain"
    },
-   "dim": "Region",
+   "dim": "Name of State / UT",
    "filter": {},
    "show": {},
    "showFallback": {},
@@ -84,7 +84,7 @@ var CONFIG = {
     "scaleType": "linear",
     "syncModels": [],
     "use": "indicator",
-    "which": "Confirmed",
+    "which": "Total Confirmed cases (Indian National)",
     "zoomedMax": null,
     "zoomedMin": null
    },
@@ -124,7 +124,7 @@ var CONFIG = {
      "marker_colorlegend"
     ],
     "use": "property",
-    "which": "Region"
+    "which": "Name of State / UT"
    },
    "highlight": [],
    "label": {
@@ -138,7 +138,7 @@ var CONFIG = {
     "scaleType": "ordinal",
     "syncModels": [],
     "use": "property",
-    "which": "Region"
+    "which": "Name of State / UT"
    },
    "limit": 5000,
    "opacityHighlightDim": 0.1,
@@ -190,10 +190,10 @@ var CONFIG = {
    "delayThresholdX2": 90,
    "delayThresholdX4": 45,
    "dim": "Date",
-   "end": "20200402",
-   "endBeforeForecast": "20200401",
+   "end": "20200319",
+   "endBeforeForecast": "20200318",
    "endOrigin": null,
-   "endSelected": "20200402",
+   "endSelected": "20200319",
    "format": {
     "data": null,
     "ui": null
@@ -201,7 +201,7 @@ var CONFIG = {
    "immediatePlay": true,
    "loop": false,
    "offset": 0,
-   "pauseBeforeForecast": false,
+   "pauseBeforeForecast": true,
    "playable": true,
    "playing": false,
    "record": false,
@@ -212,7 +212,7 @@ var CONFIG = {
    "startSelected": "20200130",
    "step": 1,
    "unit": "day",
-   "value": "20200402"
+   "value": "20200319"
   }
  },
  "ui": {

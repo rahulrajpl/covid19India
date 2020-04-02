@@ -9,7 +9,7 @@ Interactive analytics on Covid-19 India data. Click the following links to acces
 
 - [Bubble Chart](http://randomwalk.in/covid19India/bubble/) 
 
-*(Last Updated on: 01 Apr 2020)*
+*(Last Updated on: 02 Apr 2020)*
 
 ------------------------------------------
 

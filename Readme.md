@@ -16,7 +16,7 @@ Interactive analytics on Covid-19 India data. Click the following links to acces
 ## Credits
 
 - Analytics by: [Rahul Raj](https://twitter.com/rahulrajpl)
-- Data Collection by: [Devakumar kp](https://github.com/imdevskp)
+- Data Collection by: [Amey Noolkars](https://github.com/coder-amey)
 
 ------------------------------------------
 

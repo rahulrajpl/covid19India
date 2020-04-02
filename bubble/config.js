@@ -1,8 +1,8 @@
 var CONFIG = {
  "data": {
-  "_lastModified": 1584620925968,
+  "_lastModified": 1585811690145,
   "hasNameColumn": false,
-  "lastModified": 1584620925968,
+  "lastModified": 1585811690145,
   "nameColumnPosition": 0,
   "noCache": true,
   "path": "./data/complete_modified_date.csv",
@@ -23,7 +23,7 @@ var CONFIG = {
     ],
     "type": "entity_domain"
    },
-   "dim": "Name of State / UT",
+   "dim": "Region",
    "filter": {},
    "show": {},
    "showFallback": {},
@@ -37,7 +37,7 @@ var CONFIG = {
     ],
     "type": "entity_domain"
    },
-   "dim": "Name of State / UT",
+   "dim": "Region",
    "filter": {},
    "show": {},
    "showFallback": {},
@@ -67,9 +67,9 @@ var CONFIG = {
     "scaleType": "linear",
     "syncModels": [],
     "use": "indicator",
-    "which": "Total Confirmed cases (Indian National)",
-    "zoomedMax": null,
-    "zoomedMin": null
+    "which": "Confirmed",
+    "zoomedMax": 302,
+    "zoomedMin": 1
    },
    "axis_y": {
     "allow": {
@@ -90,12 +90,11 @@ var CONFIG = {
     "domainMin": null,
     "fixBaseline": null,
     "scaleType": "linear",
-    "spaceRef": null,
     "syncModels": [],
     "use": "indicator",
-    "which": "Cured/Discharged/Migrated",
-    "zoomedMax": null,
-    "zoomedMin": null
+    "which": "Recovered/Migrated",
+    "zoomedMax": 39,
+    "zoomedMin": 0
    },
    "color": {
     "allow": {
@@ -133,7 +132,7 @@ var CONFIG = {
      "marker_colorlegend"
     ],
     "use": "property",
-    "which": "Name of State / UT"
+    "which": "Region"
    },
    "highlight": [],
    "label": {
@@ -147,17 +146,13 @@ var CONFIG = {
     "scaleType": "ordinal",
     "syncModels": [],
     "use": "property",
-    "which": "Name of State / UT"
+    "which": "Region"
    },
    "limit": 5000,
    "opacityHighlightDim": 0.1,
    "opacityRegular": 1,
    "opacitySelectDim": 0.3,
-   "select": [
-    {
-     "Name of State / UT": "Maharashtra"
-    }
-   ],
+   "select": [],
    "size": {
     "allow": {
      "scales": [
@@ -184,7 +179,7 @@ var CONFIG = {
     "spaceRef": null,
     "syncModels": [],
     "use": "indicator",
-    "which": "Total Confirmed cases (Indian National)",
+    "which": "Confirmed",
     "zoomedMax": null,
     "zoomedMin": null
    },
@@ -210,10 +205,11 @@ var CONFIG = {
      0.33
     ],
     "fixBaseline": 0,
-    "scaleType": "ordinal",
+    "scaleType": "linear",
+    "spaceRef": null,
     "syncModels": [],
-    "use": "constant",
-    "which": "_default",
+    "use": "indicator",
+    "which": "Confirmed",
     "zoomedMax": null,
     "zoomedMin": null
    },
@@ -258,14 +254,14 @@ var CONFIG = {
    "autoconfig": {
     "type": "time"
    },
-   "delay": 902,
+   "delay": 1200,
    "delayThresholdX2": 90,
    "delayThresholdX4": 45,
    "dim": "Date",
-   "end": "20200319",
-   "endBeforeForecast": "20200318",
+   "end": "20200402",
+   "endBeforeForecast": "20200401",
    "endOrigin": null,
-   "endSelected": "20200319",
+   "endSelected": "20200402",
    "format": {
     "data": null,
     "ui": null
@@ -273,7 +269,7 @@ var CONFIG = {
    "immediatePlay": true,
    "loop": false,
    "offset": 0,
-   "pauseBeforeForecast": true,
+   "pauseBeforeForecast": false,
    "playable": true,
    "playing": false,
    "record": false,
@@ -281,10 +277,10 @@ var CONFIG = {
    "showForecast": true,
    "start": "20200130",
    "startOrigin": null,
-   "startSelected": "20200309",
+   "startSelected": "20200130",
    "step": 1,
    "unit": "day",
-   "value": "20200318"
+   "value": "20200402"
   }
  },
  "ui": {
@@ -307,16 +303,16 @@ var CONFIG = {
    },
    "labels": {
     "dragging": true,
-    "removeLabelBox": false
+    "removeLabelBox": true
    },
    "lockNonSelected": 0,
    "margin": {
-    "left": 83.82600000000001,
+    "left": 109.71000000000001,
     "top": 0
    },
    "showForecastOverlay": false,
    "superhighlightOnMinimapHover": true,
-   "trails": false,
+   "trails": true,
    "whenHovering": {
     "higlightValueX": true,
     "higlightValueY": true,
@@ -324,7 +320,7 @@ var CONFIG = {
     "showProjectionLineY": true
    }
   },
-  "cursorMode": "arrow",
+  "cursorMode": "hand",
   "datawarning": {
    "doubtDomain": [],
    "doubtRange": []
@@ -332,7 +328,7 @@ var CONFIG = {
   "dialogs": {
    "dialog": {
     "find": {
-     "enableSelectShowSwitch": false
+     "enableSelectShowSwitch": true
     }
    },
    "moreoptions": [
@@ -361,12 +357,12 @@ var CONFIG = {
     "zoom"
    ]
   },
-  "panWithArrow": false,
-  "presentation": false,
+  "panWithArrow": true,
+  "presentation": true,
   "show_ticks": true,
   "sidebarCollapse": false,
   "splash": false,
-  "zoomOnScrolling": false
+  "zoomOnScrolling": true
  },
  "chartType": "BubbleChart"
 };

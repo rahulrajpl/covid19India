@@ -1,8 +1,8 @@
 var CONFIG = {
  "data": {
-  "_lastModified": 1585811690145,
+  "_lastModified": 1586010542329,
   "hasNameColumn": false,
-  "lastModified": 1585811690145,
+  "lastModified": 1586010542329,
   "nameColumnPosition": 0,
   "noCache": true,
   "path": "./data/complete_modified_date.csv",
@@ -68,7 +68,7 @@ var CONFIG = {
     "syncModels": [],
     "use": "indicator",
     "which": "Confirmed",
-    "zoomedMax": 302,
+    "zoomedMax": 423,
     "zoomedMin": 1
    },
    "axis_y": {
@@ -93,7 +93,7 @@ var CONFIG = {
     "syncModels": [],
     "use": "indicator",
     "which": "Recovered/Migrated",
-    "zoomedMax": 39,
+    "zoomedMax": 42,
     "zoomedMin": 0
    },
    "color": {
@@ -151,8 +151,18 @@ var CONFIG = {
    "limit": 5000,
    "opacityHighlightDim": 0.1,
    "opacityRegular": 1,
-   "opacitySelectDim": 0.3,
-   "select": [],
+   "opacitySelectDim": 0.38,
+   "select": [
+    {
+     "Region": "Maharashtra"
+    },
+    {
+     "Region": "Kerala"
+    },
+    {
+     "Region": "Delhi"
+    }
+   ],
    "size": {
     "allow": {
      "scales": [
@@ -172,14 +182,13 @@ var CONFIG = {
     "domainMin": null,
     "extent": [
      0,
-     0.85
+     0.53
     ],
     "fixBaseline": 0,
     "scaleType": "linear",
-    "spaceRef": null,
     "syncModels": [],
     "use": "indicator",
-    "which": "Confirmed",
+    "which": "Deceased",
     "zoomedMax": null,
     "zoomedMin": null
    },
@@ -202,14 +211,13 @@ var CONFIG = {
     "domainMin": null,
     "extent": [
      0,
-     0.33
+     0.26
     ],
     "fixBaseline": 0,
-    "scaleType": "linear",
-    "spaceRef": null,
+    "scaleType": "ordinal",
     "syncModels": [],
-    "use": "indicator",
-    "which": "Confirmed",
+    "use": "constant",
+    "which": "_default",
     "zoomedMax": null,
     "zoomedMin": null
    },
@@ -258,10 +266,10 @@ var CONFIG = {
    "delayThresholdX2": 90,
    "delayThresholdX4": 45,
    "dim": "Date",
-   "end": "20200402",
-   "endBeforeForecast": "20200401",
+   "end": "20200404",
+   "endBeforeForecast": "20200403",
    "endOrigin": null,
-   "endSelected": "20200402",
+   "endSelected": "20200404",
    "format": {
     "data": null,
     "ui": null
@@ -280,7 +288,7 @@ var CONFIG = {
    "startSelected": "20200130",
    "step": 1,
    "unit": "day",
-   "value": "20200402"
+   "value": "20200404"
   }
  },
  "ui": {
@@ -298,21 +306,21 @@ var CONFIG = {
   ],
   "chart": {
    "decorations": {
-    "enabled": true,
+    "enabled": false,
     "xAxisGroups": null
    },
    "labels": {
     "dragging": true,
-    "removeLabelBox": true
+    "removeLabelBox": false
    },
    "lockNonSelected": 0,
    "margin": {
-    "left": 109.71000000000001,
+    "left": 83.82600000000001,
     "top": 0
    },
    "showForecastOverlay": false,
    "superhighlightOnMinimapHover": true,
-   "trails": true,
+   "trails": false,
    "whenHovering": {
     "higlightValueX": true,
     "higlightValueY": true,
@@ -328,7 +336,7 @@ var CONFIG = {
   "dialogs": {
    "dialog": {
     "find": {
-     "enableSelectShowSwitch": true
+     "enableSelectShowSwitch": false
     }
    },
    "moreoptions": [
@@ -357,12 +365,12 @@ var CONFIG = {
     "zoom"
    ]
   },
-  "panWithArrow": true,
-  "presentation": true,
+  "panWithArrow": false,
+  "presentation": false,
   "show_ticks": true,
   "sidebarCollapse": false,
   "splash": false,
-  "zoomOnScrolling": true
+  "zoomOnScrolling": false
  },
  "chartType": "BubbleChart"
 };

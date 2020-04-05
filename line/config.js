@@ -1,8 +1,8 @@
 var CONFIG = {
  "data": {
-  "_lastModified": 1585808710442,
+  "_lastModified": 1586110349322,
   "hasNameColumn": false,
-  "lastModified": 1585808710442,
+  "lastModified": 1586110349322,
   "nameColumnPosition": 0,
   "noCache": true,
   "path": "./data/complete_modified_date.csv",
@@ -25,7 +25,42 @@ var CONFIG = {
    },
    "dim": "Region",
    "filter": {},
-   "show": {},
+   "show": {
+    "Region": {
+     "$in": [
+      "Andaman and Nicobar Islands",
+      "Chandigarh",
+      "Gujarat",
+      "Andhra Pradesh",
+      "Arunachal Pradesh",
+      "Assam",
+      "Bihar",
+      "West Bengal",
+      "Uttarakhand",
+      "Uttar Pradesh",
+      "Telangana",
+      "Tamil Nadu",
+      "Rajasthan",
+      "Odisha",
+      "Puducherry",
+      "Punjab",
+      "Mizoram",
+      "Manipur",
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Ladakh",
+      "Kerala",
+      "Karnataka",
+      "Jharkhand",
+      "Jammu and Kashmir",
+      "Himachal Pradesh",
+      "Haryana",
+      "Goa",
+      "Delhi",
+      "Chhattisgarh"
+     ]
+    }
+   },
    "showFallback": {},
    "showItemsMaxCount": null,
    "skipFilter": false
@@ -186,14 +221,14 @@ var CONFIG = {
    "autoconfig": {
     "type": "time"
    },
-   "delay": 150,
+   "delay": 1179,
    "delayThresholdX2": 90,
    "delayThresholdX4": 45,
    "dim": "Date",
-   "end": "20200402",
-   "endBeforeForecast": "20200401",
+   "end": "20200405",
+   "endBeforeForecast": "20200404",
    "endOrigin": null,
-   "endSelected": "20200402",
+   "endSelected": "20200405",
    "format": {
     "data": null,
     "ui": null

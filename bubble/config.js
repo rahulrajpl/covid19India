@@ -1,8 +1,8 @@
 var CONFIG = {
  "data": {
-  "_lastModified": 1586010542329,
+  "_lastModified": 1586110118824,
   "hasNameColumn": false,
-  "lastModified": 1586010542329,
+  "lastModified": 1586110118824,
   "nameColumnPosition": 0,
   "noCache": true,
   "path": "./data/complete_modified_date.csv",
@@ -68,7 +68,7 @@ var CONFIG = {
     "syncModels": [],
     "use": "indicator",
     "which": "Confirmed",
-    "zoomedMax": 423,
+    "zoomedMax": 709.49,
     "zoomedMin": 1
    },
    "axis_y": {
@@ -93,7 +93,7 @@ var CONFIG = {
     "syncModels": [],
     "use": "indicator",
     "which": "Recovered/Migrated",
-    "zoomedMax": 42,
+    "zoomedMax": 54.38,
     "zoomedMin": 0
    },
    "color": {
@@ -151,16 +151,51 @@ var CONFIG = {
    "limit": 5000,
    "opacityHighlightDim": 0.1,
    "opacityRegular": 1,
-   "opacitySelectDim": 0.38,
+   "opacitySelectDim": 0.24,
    "select": [
     {
+     "Region": "West Bengal",
+     "labelOffset": [
+      -0.011,
+      0.06
+     ]
+    },
+    {
+     "Region": "Delhi"
+    },
+    {
      "Region": "Maharashtra"
+    },
+    {
+     "Region": "Ladakh"
     },
     {
      "Region": "Kerala"
     },
     {
-     "Region": "Delhi"
+     "Region": "Karnataka"
+    },
+    {
+     "Region": "Haryana"
+    },
+    {
+     "Region": "Gujarat"
+    },
+    {
+     "Region": "Telangana"
+    },
+    {
+     "Region": "Tamil Nadu"
+    },
+    {
+     "Region": "Rajasthan"
+    },
+    {
+     "Region": "Uttar Pradesh",
+     "labelOffset": [
+      0.126,
+      0.056
+     ]
     }
    ],
    "size": {
@@ -182,7 +217,7 @@ var CONFIG = {
     "domainMin": null,
     "extent": [
      0,
-     0.53
+     0.85
     ],
     "fixBaseline": 0,
     "scaleType": "linear",
@@ -211,7 +246,7 @@ var CONFIG = {
     "domainMin": null,
     "extent": [
      0,
-     0.26
+     0.33
     ],
     "fixBaseline": 0,
     "scaleType": "ordinal",
@@ -262,14 +297,14 @@ var CONFIG = {
    "autoconfig": {
     "type": "time"
    },
-   "delay": 1200,
+   "delay": 1105,
    "delayThresholdX2": 90,
    "delayThresholdX4": 45,
    "dim": "Date",
-   "end": "20200404",
-   "endBeforeForecast": "20200403",
+   "end": "20200405",
+   "endBeforeForecast": "20200404",
    "endOrigin": null,
-   "endSelected": "20200404",
+   "endSelected": "20200405",
    "format": {
     "data": null,
     "ui": null
@@ -277,7 +312,7 @@ var CONFIG = {
    "immediatePlay": true,
    "loop": false,
    "offset": 0,
-   "pauseBeforeForecast": false,
+   "pauseBeforeForecast": true,
    "playable": true,
    "playing": false,
    "record": false,
@@ -288,11 +323,11 @@ var CONFIG = {
    "startSelected": "20200130",
    "step": 1,
    "unit": "day",
-   "value": "20200404"
+   "value": "20200405"
   }
  },
  "ui": {
-  "adaptMinMaxZoom": false,
+  "adaptMinMaxZoom": true,
   "buttons": [
    "colors",
    "find",
@@ -306,7 +341,7 @@ var CONFIG = {
   ],
   "chart": {
    "decorations": {
-    "enabled": false,
+    "enabled": true,
     "xAxisGroups": null
    },
    "labels": {
@@ -328,7 +363,7 @@ var CONFIG = {
     "showProjectionLineY": true
    }
   },
-  "cursorMode": "hand",
+  "cursorMode": "arrow",
   "datawarning": {
    "doubtDomain": [],
    "doubtRange": []
@@ -365,12 +400,12 @@ var CONFIG = {
     "zoom"
    ]
   },
-  "panWithArrow": false,
+  "panWithArrow": true,
   "presentation": false,
   "show_ticks": true,
   "sidebarCollapse": false,
   "splash": false,
-  "zoomOnScrolling": false
+  "zoomOnScrolling": true
  },
  "chartType": "BubbleChart"
 };

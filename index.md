@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Covid-19 Statistics in India
 
 ![line](/imgs/demo.gif)

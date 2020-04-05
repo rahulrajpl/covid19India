@@ -18,6 +18,7 @@ Access the charts from following links
 - To present the chart in fullscreen use the 'expand' button on bottom right corner
 - You can zoom and pan using mouse on bubble chart
 - If the data is too cluttered, you can deselect the unwanted plots from the right hand menu
+
 ------------------------------------------
 
 ## Sneakpeak
@@ -36,5 +37,6 @@ Access the charts from following links
 ## Feedback
 
 
-Submit feedback and comments to https://twitter.com/rahulrajpl.
+Submit feedback and comments [here](https://github.com/rahulrajpl/covid19India/issues).
+
 Thank you.

@@ -1,13 +1,10 @@
 ---
 layout: default
+title: Covid-19 Statistics in India
+description: Interactive analytics on Covid-19 India data. 
 ---
 
-# Covid-19 Statistics in India
-
-![line](/imgs/demo.gif)
-
-
-Interactive analytics on Covid-19 India data. Click the following links to access them.
+Access the charts from following links
 
 - [Line Chart](http://randomwalk.in/covid19India/line/) 
 
@@ -15,8 +12,20 @@ Interactive analytics on Covid-19 India data. Click the following links to acces
 
 *(Last Updated on: 05 Apr 2020)*
 
+### Few tips on using the charts
+
+- You can interactively select various options available on the right side menu of each chart
+- To present the chart in fullscreen use the 'expand' button on bottom right corner
+- You can zoom and pan using mouse on bubble chart
+- If the data is too cluttered, you can deselect the unwanted plots from the right hand menu
 ------------------------------------------
 
+## Sneakpeak
+
+![line](/imgs/demo.gif)
+
+
+------------------------------------------
 ## Credits
 
 - Analytics by: [Rahul Raj](https://twitter.com/rahulrajpl)

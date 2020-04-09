@@ -4,13 +4,13 @@ title: Covid-19 Statistics in India
 description: Interactive analytics on Covid-19 India data. 
 ---
 
-Access the charts from following links
+Access the charts from the following links
 
 - [Line Chart](http://randomwalk.in/covid19India/line/) 
 
 - [Bubble Chart](http://randomwalk.in/covid19India/bubble/) 
 
-*(Last Updated on: 07 Apr 2020)*
+*(Last Updated on: 09 Apr 2020)*
 
 ### Few tips on using the charts
 

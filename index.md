@@ -16,7 +16,7 @@ Access the charts from the following links
 
 - You can interactively select various options available on the right side menu of each chart
 - To present the chart in fullscreen use the 'expand' button on bottom right corner
-- You can zoom and pan using mouse on bubble chart
+- You can pan and zoom using mouse on bubble chart
 - If the data is too cluttered, you can deselect the unwanted plots from the right hand menu
 
 ------------------------------------------

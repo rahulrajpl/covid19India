@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # ------
-# Credits: Rahul Raj (c) MIT License 2020
-# Web: https://randomwalk.in
+# Author: Rahul Raj (c) MIT License 2020
+# Website: https://randomwalk.in
 # ------
 
 import os

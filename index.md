@@ -27,11 +27,18 @@ Access the charts from the following links
 ## Sneakpeak
 
 - [Line Chart](http://randomwalk.in/covid19India/line/) 
+
     ![line](imgs/line.gif)
+
 - [Bubble Chart](http://randomwalk.in/covid19India/bubble/) 
+
     ![line](imgs/bubble.gif)
+
 - [Rank Chart](http://randomwalk.in/covid19India/ranking/) 
+
     ![line](imgs/ranking.gif)
+
+    
 ------------------------------------------
 ## Credits
 

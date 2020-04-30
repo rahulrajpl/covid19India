@@ -9,6 +9,7 @@ Interactive analytics on Covid-19 India data. Click the following links to acces
 
 - [Bubble Chart](http://randomwalk.in/covid19India/bubble/) 
 
+- [Rank Chart](http://randomwalk.in/covid19India/ranking/) 
 
 ------------------------------------------
 

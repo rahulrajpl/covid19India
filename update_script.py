@@ -30,6 +30,14 @@ os.system(cmd)
 df_ind.to_csv('./bubble/data/complete_modified_date.csv', index=False)
 print('Bubble chart data updated')
 
+# For the Rank Chart, we use the same data made for Bubble Chart
+# --------------------
+cmd = f'mv ./ranking/data/complete_modified_date.csv ./ranking/data/complete_modified_date_{dtg}.csv'
+os.system(cmd)
+cmd = f'cp ./bubble/data/complete_modified_date.csv ./ranking/data/complete_modified_date.csv'
+os.system(cmd)
+print('Rank chart data updated')
+
 # For the line chart
 # --------------------
 def format_date(date):

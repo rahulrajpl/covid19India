@@ -10,7 +10,9 @@ Access the charts from the following links
 
 - [Bubble Chart](http://randomwalk.in/covid19India/bubble/) 
 
-*(Last Updated on:  29 Apr 2020)* 
+- [Rank Chart](http://randomwalk.in/covid19India/ranking/) 
+
+*(Last Updated on:  30 Apr 2020)* 
 
 ### Few tips on using the charts
 

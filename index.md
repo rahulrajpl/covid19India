@@ -20,14 +20,17 @@ Access the charts from the following links
 - To present the chart in fullscreen use the 'expand' button on bottom right corner
 - You can pan and zoom using mouse on bubble chart
 - If the data is too cluttered, you can deselect the unwanted plots from the right hand menu
-
+- On Rank Chart click on the 'Confirmed' link on top left corner to select other options to rank
 ------------------------------------------
 
 ## Sneakpeak
 
-![line](/imgs/demo.gif)
-
-
+- [Line Chart](http://randomwalk.in/covid19India/line/) 
+    ![line](imgs/line.gif)
+- [Bubble Chart](http://randomwalk.in/covid19India/bubble/) 
+    ![line](imgs/bubble.gif)
+- [Rank Chart](http://randomwalk.in/covid19India/ranking/) 
+    ![line](imgs/ranking.gif)
 ------------------------------------------
 ## Credits
 

@@ -21,6 +21,7 @@ Access the charts from the following links
 - You can pan and zoom using mouse on bubble chart
 - If the data is too cluttered, you can deselect the unwanted plots from the right hand menu
 - On Rank Chart click on the 'Confirmed' link on top left corner to select other options to rank
+
 ------------------------------------------
 
 ## Sneakpeak

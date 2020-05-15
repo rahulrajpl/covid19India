@@ -12,7 +12,7 @@ Access the charts from the following links
 
 - [Rank Chart](http://randomwalk.in/covid19India/ranking/) 
 
-*(Last Updated on:  13 May 2020)* 
+*(Last Updated on:  15 May 2020)* 
 
 ### Few tips on using the charts
 

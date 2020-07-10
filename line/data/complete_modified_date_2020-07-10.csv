@@ -1,33 +1,42 @@
 Region,Date,Confirmed,Recovered/Migrated,Deceased
 Kerala,20200130,1.0,0.0,0.0
+National Total,20200130,1.0,0.0,0.0
 Kerala,20200202,2.0,0.0,0.0
+National Total,20200202,2.0,0.0,0.0
 Kerala,20200203,3.0,0.0,0.0
+National Total,20200203,3.0,0.0,0.0
 Kerala,20200214,3.0,3.0,0.0
+National Total,20200214,3.0,3.0,0.0
 Delhi,20200302,1.0,0.0,0.0
 Kerala,20200302,3.0,3.0,0.0
 Telangana,20200302,1.0,1.0,0.0
+National Total,20200302,5.0,4.0,0.0
 Delhi,20200303,1.0,0.0,0.0
 Kerala,20200303,3.0,3.0,0.0
 Rajasthan,20200303,1.0,1.0,0.0
 Telangana,20200303,1.0,1.0,0.0
+National Total,20200303,6.0,5.0,0.0
 Delhi,20200304,1.0,0.0,0.0
 Haryana,20200304,14.0,0.0,0.0
 Kerala,20200304,3.0,3.0,0.0
 Rajasthan,20200304,2.0,2.0,0.0
 Telangana,20200304,1.0,1.0,0.0
 Uttar Pradesh,20200304,7.0,0.0,0.0
+National Total,20200304,28.0,6.0,0.0
 Delhi,20200305,2.0,0.0,0.0
 Haryana,20200305,14.0,0.0,0.0
 Kerala,20200305,3.0,3.0,0.0
 Rajasthan,20200305,2.0,2.0,0.0
 Telangana,20200305,1.0,1.0,0.0
 Uttar Pradesh,20200305,8.0,1.0,0.0
+National Total,20200305,30.0,7.0,0.0
 Delhi,20200306,3.0,0.0,0.0
 Haryana,20200306,14.0,0.0,0.0
 Kerala,20200306,3.0,3.0,0.0
 Rajasthan,20200306,2.0,2.0,0.0
 Telangana,20200306,1.0,1.0,0.0
 Uttar Pradesh,20200306,8.0,1.0,0.0
+National Total,20200306,31.0,7.0,0.0
 Delhi,20200307,3.0,0.0,0.0
 Haryana,20200307,14.0,0.0,0.0
 Kerala,20200307,3.0,3.0,0.0
@@ -36,6 +45,7 @@ Rajasthan,20200307,2.0,2.0,0.0
 Tamil Nadu,20200307,1.0,1.0,0.0
 Telangana,20200307,1.0,1.0,0.0
 Uttar Pradesh,20200307,8.0,1.0,0.0
+National Total,20200307,34.0,8.0,0.0
 Delhi,20200308,3.0,0.0,0.0
 Haryana,20200308,14.0,0.0,0.0
 Kerala,20200308,8.0,3.0,0.0
@@ -44,6 +54,7 @@ Rajasthan,20200308,2.0,2.0,0.0
 Tamil Nadu,20200308,1.0,1.0,0.0
 Telangana,20200308,1.0,1.0,0.0
 Uttar Pradesh,20200308,8.0,1.0,0.0
+National Total,20200308,39.0,8.0,0.0
 Delhi,20200309,4.0,0.0,0.0
 Haryana,20200309,14.0,0.0,0.0
 Jammu and Kashmir,20200309,1.0,0.0,0.0
@@ -56,6 +67,7 @@ Rajasthan,20200309,2.0,2.0,0.0
 Tamil Nadu,20200309,1.0,1.0,0.0
 Telangana,20200309,1.0,1.0,0.0
 Uttar Pradesh,20200309,10.0,2.0,0.0
+National Total,20200309,48.0,10.0,0.0
 Delhi,20200310,4.0,0.0,0.0
 Haryana,20200310,14.0,0.0,0.0
 Jammu and Kashmir,20200310,1.0,0.0,0.0
@@ -68,6 +80,7 @@ Rajasthan,20200310,3.0,3.0,0.0
 Tamil Nadu,20200310,1.0,1.0,0.0
 Telangana,20200310,1.0,1.0,0.0
 Uttar Pradesh,20200310,10.0,2.0,0.0
+National Total,20200310,63.0,13.0,0.0
 Delhi,20200311,5.0,0.0,0.0
 Haryana,20200311,14.0,0.0,0.0
 Jammu and Kashmir,20200311,1.0,0.0,0.0
@@ -80,6 +93,7 @@ Rajasthan,20200311,3.0,3.0,0.0
 Tamil Nadu,20200311,1.0,1.0,0.0
 Telangana,20200311,1.0,1.0,0.0
 Uttar Pradesh,20200311,10.0,2.0,0.0
+National Total,20200311,70.0,13.0,0.0
 Andhra Pradesh,20200312,1.0,0.0,0.0
 Delhi,20200312,6.0,0.0,1.0
 Haryana,20200312,14.0,0.0,0.0
@@ -93,6 +107,7 @@ Rajasthan,20200312,3.0,3.0,0.0
 Tamil Nadu,20200312,1.0,1.0,0.0
 Telangana,20200312,1.0,1.0,0.0
 Uttar Pradesh,20200312,12.0,2.0,0.0
+National Total,20200312,82.0,13.0,3.0
 Andhra Pradesh,20200313,1.0,0.0,0.0
 Delhi,20200313,7.0,0.0,1.0
 Haryana,20200313,14.0,0.0,0.0
@@ -106,6 +121,7 @@ Rajasthan,20200313,3.0,3.0,0.0
 Tamil Nadu,20200313,1.0,1.0,0.0
 Telangana,20200313,1.0,1.0,0.0
 Uttar Pradesh,20200313,13.0,2.0,0.0
+National Total,20200313,91.0,13.0,3.0
 Andhra Pradesh,20200314,1.0,0.0,0.0
 Delhi,20200314,7.0,0.0,1.0
 Haryana,20200314,14.0,0.0,0.0
@@ -119,6 +135,7 @@ Rajasthan,20200314,4.0,3.0,0.0
 Tamil Nadu,20200314,1.0,1.0,0.0
 Telangana,20200314,2.0,1.0,0.0
 Uttar Pradesh,20200314,13.0,2.0,0.0
+National Total,20200314,107.0,13.0,3.0
 Andhra Pradesh,20200315,1.0,0.0,0.0
 Delhi,20200315,7.0,2.0,1.0
 Haryana,20200315,14.0,0.0,0.0
@@ -133,6 +150,7 @@ Tamil Nadu,20200315,1.0,1.0,0.0
 Telangana,20200315,3.0,1.0,0.0
 Uttar Pradesh,20200315,13.0,2.0,0.0
 Uttarakhand,20200315,1.0,0.0,0.0
+National Total,20200315,113.0,15.0,3.0
 Andhra Pradesh,20200316,1.0,0.0,0.0
 Delhi,20200316,7.0,2.0,1.0
 Haryana,20200316,14.0,0.0,0.0
@@ -148,6 +166,7 @@ Tamil Nadu,20200316,1.0,1.0,0.0
 Telangana,20200316,4.0,1.0,0.0
 Uttar Pradesh,20200316,13.0,2.0,0.0
 Uttarakhand,20200316,1.0,0.0,0.0
+National Total,20200316,127.0,15.0,3.0
 Andhra Pradesh,20200317,1.0,0.0,0.0
 Delhi,20200317,10.0,2.0,1.0
 Haryana,20200317,15.0,0.0,0.0
@@ -165,6 +184,7 @@ Telangana,20200317,5.0,1.0,0.0
 Uttar Pradesh,20200317,15.0,2.0,0.0
 Uttarakhand,20200317,1.0,0.0,0.0
 West Bengal,20200317,1.0,0.0,0.0
+National Total,20200317,146.0,15.0,3.0
 Andhra Pradesh,20200318,1.0,0.0,0.0
 Delhi,20200318,11.0,2.0,1.0
 Haryana,20200318,17.0,0.0,0.0
@@ -182,6 +202,7 @@ Telangana,20200318,13.0,1.0,0.0
 Uttar Pradesh,20200318,17.0,2.0,0.0
 Uttarakhand,20200318,1.0,0.0,0.0
 West Bengal,20200318,1.0,0.0,0.0
+National Total,20200318,171.0,15.0,3.0
 Andhra Pradesh,20200319,3.0,0.0,0.0
 Chandigarh,20200319,1.0,0.0,0.0
 Chhattisgarh,20200319,1.0,0.0,0.0
@@ -202,6 +223,7 @@ Telangana,20200319,16.0,1.0,0.0
 Uttar Pradesh,20200319,20.0,2.0,0.0
 Uttarakhand,20200319,3.0,1.0,0.0
 West Bengal,20200319,1.0,0.0,0.0
+National Total,20200319,199.0,16.0,4.0
 Andhra Pradesh,20200320,3.0,0.0,0.0
 Chandigarh,20200320,5.0,0.0,0.0
 Chhattisgarh,20200320,1.0,0.0,0.0
@@ -224,6 +246,7 @@ Telangana,20200320,19.0,1.0,0.0
 Uttar Pradesh,20200320,24.0,2.0,0.0
 Uttarakhand,20200320,3.0,1.0,0.0
 West Bengal,20200320,2.0,0.0,0.0
+National Total,20200320,258.0,21.0,4.0
 Andhra Pradesh,20200321,5.0,0.0,0.0
 Chandigarh,20200321,5.0,0.0,0.0
 Chhattisgarh,20200321,1.0,0.0,0.0
@@ -246,6 +269,7 @@ Telangana,20200321,21.0,1.0,0.0
 Uttar Pradesh,20200321,28.0,2.0,0.0
 Uttarakhand,20200321,3.0,1.0,0.0
 West Bengal,20200321,4.0,0.0,0.0
+National Total,20200321,334.0,21.0,4.0
 Andhra Pradesh,20200322,6.0,0.0,0.0
 Bihar,20200322,2.0,0.0,1.0
 Chandigarh,20200322,6.0,0.0,0.0
@@ -269,6 +293,7 @@ Telangana,20200322,27.0,1.0,0.0
 Uttar Pradesh,20200322,30.0,2.0,0.0
 Uttarakhand,20200322,3.0,1.0,0.0
 West Bengal,20200322,7.0,0.0,0.0
+National Total,20200322,403.0,21.0,7.0
 Andhra Pradesh,20200323,7.0,0.0,0.0
 Bihar,20200323,3.0,0.0,1.0
 Chandigarh,20200323,7.0,0.0,0.0
@@ -292,6 +317,7 @@ Telangana,20200323,33.0,1.0,0.0
 Uttar Pradesh,20200323,34.0,2.0,0.0
 Uttarakhand,20200323,4.0,1.0,0.0
 West Bengal,20200323,7.0,0.0,1.0
+National Total,20200323,505.0,22.0,9.0
 Andhra Pradesh,20200324,8.0,0.0,0.0
 Bihar,20200324,3.0,0.0,1.0
 Chandigarh,20200324,7.0,0.0,0.0
@@ -316,6 +342,7 @@ Telangana,20200324,39.0,1.0,0.0
 Uttar Pradesh,20200324,35.0,2.0,0.0
 Uttarakhand,20200324,4.0,1.0,0.0
 West Bengal,20200324,9.0,0.0,1.0
+National Total,20200324,571.0,26.0,10.0
 Andhra Pradesh,20200325,10.0,0.0,0.0
 Bihar,20200325,4.0,0.0,1.0
 Chandigarh,20200325,7.0,0.0,0.0
@@ -342,6 +369,7 @@ Telangana,20200325,41.0,1.0,0.0
 Uttar Pradesh,20200325,38.0,2.0,0.0
 Uttarakhand,20200325,5.0,1.0,0.0
 West Bengal,20200325,9.0,0.0,1.0
+National Total,20200325,657.0,28.0,13.0
 Andaman and Nicobar Islands,20200326,1.0,0.0,0.0
 Andhra Pradesh,20200326,11.0,0.0,0.0
 Bihar,20200326,7.0,0.0,1.0
@@ -369,6 +397,7 @@ Telangana,20200326,45.0,1.0,0.0
 Uttar Pradesh,20200326,42.0,2.0,0.0
 Uttarakhand,20200326,5.0,1.0,0.0
 West Bengal,20200326,10.0,0.0,1.0
+National Total,20200326,735.0,28.0,14.0
 Andaman and Nicobar Islands,20200327,6.0,0.0,0.0
 Andhra Pradesh,20200327,13.0,0.0,0.0
 Bihar,20200327,9.0,0.0,1.0
@@ -396,6 +425,7 @@ Telangana,20200327,59.0,1.0,0.0
 Uttar Pradesh,20200327,49.0,2.0,0.0
 Uttarakhand,20200327,5.0,1.0,0.0
 West Bengal,20200327,15.0,0.0,1.0
+National Total,20200327,886.0,31.0,16.0
 Andhra Pradesh,20200328,14.0,1.0,0.0
 Andaman and Nicobar Islands,20200328,6.0,0.0,0.0
 Bihar,20200328,9.0,0.0,1.0
@@ -423,6 +453,7 @@ Telangana,20200328,56.0,1.0,0.0
 Uttarakhand,20200328,5.0,0.0,0.0
 Uttar Pradesh,20200328,55.0,11.0,0.0
 West Bengal,20200328,15.0,0.0,1.0
+National Total,20200328,909.0,80.0,19.0
 Andhra Pradesh,20200329,14.0,1.0,0.0
 Andaman and Nicobar Islands,20200329,9.0,0.0,0.0
 Bihar,20200329,9.0,0.0,1.0
@@ -450,6 +481,7 @@ Telangana,20200329,66.0,1.0,1.0
 Uttarakhand,20200329,6.0,1.0,0.0
 Uttar Pradesh,20200329,55.0,11.0,0.0
 West Bengal,20200329,17.0,0.0,1.0
+National Total,20200329,979.0,87.0,25.0
 Andhra Pradesh,20200330,23.0,1.0,0.0
 Andaman and Nicobar Islands,20200330,9.0,0.0,0.0
 Bihar,20200330,15.0,0.0,1.0
@@ -477,6 +509,7 @@ Telangana,20200330,71.0,1.0,1.0
 Uttarakhand,20200330,7.0,2.0,0.0
 Uttar Pradesh,20200330,82.0,11.0,0.0
 West Bengal,20200330,22.0,0.0,1.0
+National Total,20200330,1205.0,102.0,31.0
 Andhra Pradesh,20200331,40.0,1.0,0.0
 Andaman and Nicobar Islands,20200331,10.0,0.0,0.0
 Bihar,20200331,15.0,0.0,1.0
@@ -504,6 +537,7 @@ Telangana,20200331,79.0,1.0,1.0
 Uttarakhand,20200331,7.0,2.0,0.0
 Uttar Pradesh,20200331,101.0,14.0,0.0
 West Bengal,20200331,26.0,0.0,2.0
+National Total,20200331,1359.0,124.0,35.0
 Andhra Pradesh,20200401,83.0,1.0,0.0
 Andaman and Nicobar Islands,20200401,10.0,0.0,0.0
 Bihar,20200401,23.0,0.0,1.0
@@ -531,6 +565,7 @@ Telangana,20200401,94.0,1.0,3.0
 Uttarakhand,20200401,7.0,2.0,0.0
 Uttar Pradesh,20200401,103.0,14.0,0.0
 West Bengal,20200401,26.0,0.0,2.0
+National Total,20200401,1637.0,133.0,38.0
 Andhra Pradesh,20200402,86.0,1.0,1.0
 Andaman and Nicobar Islands,20200402,10.0,0.0,0.0
 Assam,20200402,5.0,0.0,0.0
@@ -560,6 +595,7 @@ Telangana,20200402,107.0,1.0,3.0
 Uttarakhand,20200402,7.0,2.0,0.0
 Uttar Pradesh,20200402,113.0,14.0,2.0
 West Bengal,20200402,53.0,6.0,3.0
+National Total,20200402,2069.0,156.0,53.0
 Andhra Pradesh,20200403,132.0,1.0,1.0
 Andaman and Nicobar Islands,20200403,10.0,0.0,0.0
 Arunachal Pradesh,20200403,1.0,0.0,0.0
@@ -590,6 +626,7 @@ Telangana,20200403,107.0,1.0,3.0
 Uttarakhand,20200403,10.0,2.0,0.0
 Uttar Pradesh,20200403,113.0,14.0,2.0
 West Bengal,20200403,53.0,3.0,3.0
+National Total,20200403,2283.0,157.0,56.0
 Andhra Pradesh,20200404,161.0,1.0,1.0
 Andaman and Nicobar Islands,20200404,10.0,0.0,0.0
 Arunachal Pradesh,20200404,1.0,0.0,0.0
@@ -620,6 +657,7 @@ Telangana,20200404,158.0,1.0,7.0
 Uttarakhand,20200404,16.0,2.0,0.0
 Uttar Pradesh,20200404,174.0,19.0,2.0
 West Bengal,20200404,63.0,3.0,3.0
+National Total,20200404,2902.0,184.0,68.0
 Andhra Pradesh,20200405,190.0,1.0,1.0
 Andaman and Nicobar Islands,20200405,10.0,0.0,0.0
 Arunachal Pradesh,20200405,1.0,0.0,0.0
@@ -650,6 +688,7 @@ Telangana,20200405,269.0,32.0,7.0
 Uttarakhand,20200405,22.0,2.0,0.0
 Uttar Pradesh,20200405,227.0,19.0,2.0
 West Bengal,20200405,80.0,10.0,3.0
+National Total,20200405,3577.0,275.0,83.0
 Andhra Pradesh,20200406,226.0,1.0,3.0
 Andaman and Nicobar Islands,20200406,10.0,0.0,0.0
 Arunachal Pradesh,20200406,1.0,0.0,0.0
@@ -680,6 +719,7 @@ Telangana,20200406,321.0,34.0,7.0
 Uttarakhand,20200406,26.0,4.0,0.0
 Uttar Pradesh,20200406,305.0,21.0,3.0
 West Bengal,20200406,80.0,10.0,3.0
+National Total,20200406,4281.0,319.0,111.0
 Andhra Pradesh,20200407,266.0,1.0,3.0
 Andaman and Nicobar Islands,20200407,10.0,0.0,0.0
 Arunachal Pradesh,20200407,1.0,0.0,0.0
@@ -711,6 +751,7 @@ Tripura,20200407,1.0,0.0,0.0
 Uttarakhand,20200407,31.0,5.0,0.0
 Uttar Pradesh,20200407,305.0,21.0,3.0
 West Bengal,20200407,91.0,13.0,3.0
+National Total,20200407,4789.0,353.0,124.0
 Andhra Pradesh,20200408,305.0,5.0,4.0
 Andaman and Nicobar Islands,20200408,10.0,0.0,0.0
 Arunachal Pradesh,20200408,1.0,0.0,0.0
@@ -742,6 +783,7 @@ Tripura,20200408,1.0,0.0,0.0
 Uttarakhand,20200408,31.0,5.0,0.0
 Uttar Pradesh,20200408,343.0,26.0,3.0
 West Bengal,20200408,99.0,13.0,5.0
+National Total,20200408,5274.0,411.0,149.0
 Andhra Pradesh,20200409,348.0,6.0,4.0
 Andaman and Nicobar Islands,20200409,11.0,0.0,0.0
 Arunachal Pradesh,20200409,1.0,0.0,0.0
@@ -773,6 +815,7 @@ Tripura,20200409,1.0,0.0,0.0
 Uttarakhand,20200409,35.0,5.0,0.0
 Uttar Pradesh,20200409,410.0,31.0,4.0
 West Bengal,20200409,103.0,16.0,5.0
+National Total,20200409,5865.0,478.0,169.0
 Andhra Pradesh,20200410,363.0,7.0,6.0
 Andaman and Nicobar Islands,20200410,11.0,0.0,0.0
 Arunachal Pradesh,20200410,1.0,0.0,0.0
@@ -804,6 +847,7 @@ Tripura,20200410,1.0,0.0,0.0
 Uttarakhand,20200410,35.0,5.0,0.0
 Uttar Pradesh,20200410,431.0,32.0,4.0
 West Bengal,20200410,116.0,16.0,5.0
+National Total,20200410,6761.0,516.0,206.0
 Andhra Pradesh,20200411,381.0,11.0,6.0
 Andaman and Nicobar Islands,20200411,11.0,0.0,0.0
 Arunachal Pradesh,20200411,1.0,0.0,0.0
@@ -835,6 +879,7 @@ Tripura,20200411,2.0,0.0,0.0
 Uttarakhand,20200411,35.0,5.0,0.0
 Uttar Pradesh,20200411,433.0,32.0,4.0
 West Bengal,20200411,126.0,16.0,5.0
+National Total,20200411,7529.0,653.0,242.0
 Andhra Pradesh,20200412,381.0,11.0,6.0
 Andaman and Nicobar Islands,20200412,11.0,10.0,0.0
 Arunachal Pradesh,20200412,1.0,0.0,0.0
@@ -866,6 +911,7 @@ Tripura,20200412,2.0,0.0,0.0
 Uttarakhand,20200412,35.0,5.0,0.0
 Uttar Pradesh,20200412,452.0,45.0,5.0
 West Bengal,20200412,134.0,19.0,5.0
+National Total,20200412,8447.0,765.0,273.0
 Andhra Pradesh,20200413,432.0,11.0,7.0
 Andaman and Nicobar Islands,20200413,11.0,10.0,0.0
 Arunachal Pradesh,20200413,1.0,0.0,0.0
@@ -897,6 +943,7 @@ Tripura,20200413,2.0,0.0,0.0
 Uttarakhand,20200413,35.0,5.0,0.0
 Uttar Pradesh,20200413,483.0,47.0,5.0
 West Bengal,20200413,152.0,29.0,7.0
+National Total,20200413,9352.0,980.0,324.0
 Andhra Pradesh,20200414,473.0,14.0,9.0
 Andaman and Nicobar Islands,20200414,11.0,10.0,0.0
 Arunachal Pradesh,20200414,1.0,0.0,0.0
@@ -929,6 +976,7 @@ Tripura,20200414,2.0,0.0,0.0
 Uttarakhand,20200414,35.0,7.0,0.0
 Uttar Pradesh,20200414,657.0,49.0,5.0
 West Bengal,20200414,190.0,36.0,7.0
+National Total,20200414,10815.0,1190.0,353.0
 Andaman and Nicobar Islands,20200415,11.0,10.0,0.0
 Andhra Pradesh,20200415,503.0,16.0,9.0
 Arunachal Pradesh,20200415,1.0,0.0,0.0
@@ -961,6 +1009,7 @@ Tripura,20200415,2.0,0.0,0.0
 Uttarakhand,20200415,37.0,9.0,0.0
 Uttar Pradesh,20200415,735.0,51.0,11.0
 West Bengal,20200415,213.0,37.0,7.0
+National Total,20200415,11933.0,1344.0,392.0
 Andaman and Nicobar Islands,20200416,11.0,10.0,0.0
 Andhra Pradesh,20200416,534.0,20.0,14.0
 Arunachal Pradesh,20200416,1.0,0.0,0.0
@@ -993,6 +1042,7 @@ Tripura,20200416,2.0,1.0,0.0
 Uttarakhand,20200416,37.0,9.0,0.0
 Uttar Pradesh,20200416,773.0,68.0,13.0
 West Bengal,20200416,231.0,42.0,7.0
+National Total,20200416,12759.0,1515.0,420.0
 Andaman and Nicobar Islands,20200417,11.0,10.0,0.0
 Andhra Pradesh,20200417,572.0,36.0,14.0
 Arunachal Pradesh,20200417,1.0,0.0,0.0
@@ -1025,6 +1075,7 @@ Tripura,20200417,2.0,1.0,0.0
 Uttarakhand,20200417,37.0,9.0,0.0
 Uttar Pradesh,20200417,846.0,74.0,14.0
 West Bengal,20200417,255.0,51.0,10.0
+National Total,20200417,13835.0,1767.0,452.0
 Andaman and Nicobar Islands,20200418,12.0,11.0,0.0
 Andhra Pradesh,20200418,603.0,42.0,15.0
 Arunachal Pradesh,20200418,1.0,0.0,0.0
@@ -1057,6 +1108,7 @@ Tripura,20200418,2.0,1.0,0.0
 Uttarakhand,20200418,42.0,9.0,0.0
 Uttar Pradesh,20200418,969.0,86.0,14.0
 West Bengal,20200418,287.0,55.0,10.0
+National Total,20200418,14792.0,2015.0,488.0
 Andaman and Nicobar Islands,20200419,14.0,11.0,0.0
 Andhra Pradesh,20200419,603.0,42.0,15.0
 Arunachal Pradesh,20200419,1.0,0.0,0.0
@@ -1089,6 +1141,7 @@ Tripura,20200419,2.0,1.0,0.0
 Uttarakhand,20200419,42.0,9.0,0.0
 Uttar Pradesh,20200419,1084.0,108.0,17.0
 West Bengal,20200419,310.0,62.0,12.0
+National Total,20200419,16116.0,2302.0,519.0
 Andaman and Nicobar Islands,20200420,15.0,11.0,0.0
 Andhra Pradesh,20200420,722.0,92.0,20.0
 Arunachal Pradesh,20200420,1.0,0.0,0.0
@@ -1121,6 +1174,7 @@ Tripura,20200420,2.0,1.0,0.0
 Uttarakhand,20200420,44.0,11.0,0.0
 Uttar Pradesh,20200420,1176.0,129.0,17.0
 West Bengal,20200420,339.0,66.0,12.0
+National Total,20200420,17656.0,2842.0,559.0
 Andaman and Nicobar Islands,20200421,16.0,11.0,0.0
 Andhra Pradesh,20200421,757.0,96.0,22.0
 Arunachal Pradesh,20200421,1.0,1.0,0.0
@@ -1153,6 +1207,7 @@ Tripura,20200421,2.0,1.0,0.0
 Uttarakhand,20200421,46.0,18.0,0.0
 Uttar Pradesh,20200421,1294.0,140.0,20.0
 West Bengal,20200421,392.0,73.0,12.0
+National Total,20200421,18985.0,3260.0,603.0
 Andaman and Nicobar Islands,20200422,17.0,11.0,0.0
 Andhra Pradesh,20200422,813.0,120.0,24.0
 Arunachal Pradesh,20200422,1.0,1.0,0.0
@@ -1185,6 +1240,7 @@ Tripura,20200422,2.0,1.0,0.0
 Uttarakhand,20200422,46.0,19.0,0.0
 Uttar Pradesh,20200422,1412.0,165.0,21.0
 West Bengal,20200422,423.0,73.0,15.0
+National Total,20200422,20471.0,3960.0,652.0
 Andaman and Nicobar Islands,20200423,18.0,11.0,0.0
 Andhra Pradesh,20200423,895.0,141.0,27.0
 Arunachal Pradesh,20200423,1.0,1.0,0.0
@@ -1217,6 +1273,7 @@ Tripura,20200423,2.0,1.0,0.0
 Uttarakhand,20200423,46.0,23.0,0.0
 Uttar Pradesh,20200423,1509.0,187.0,21.0
 West Bengal,20200423,456.0,79.0,15.0
+National Total,20200423,21700.0,4325.0,686.0
 Andaman and Nicobar Islands,20200424,22.0,11.0,0.0
 Andhra Pradesh,20200424,955.0,145.0,29.0
 Arunachal Pradesh,20200424,1.0,1.0,0.0
@@ -1249,6 +1306,7 @@ Tripura,20200424,2.0,1.0,0.0
 Uttarakhand,20200424,47.0,24.0,0.0
 Uttar Pradesh,20200424,1604.0,206.0,24.0
 West Bengal,20200424,514.0,103.0,15.0
+National Total,20200424,23452.0,4814.0,723.0
 Andaman and Nicobar Islands,20200425,27.0,11.0,0.0
 Andhra Pradesh,20200425,1061.0,171.0,31.0
 Arunachal Pradesh,20200425,1.0,1.0,0.0
@@ -1281,6 +1339,7 @@ Tripura,20200425,2.0,1.0,0.0
 Uttarakhand,20200425,48.0,25.0,0.0
 Uttar Pradesh,20200425,1778.0,248.0,26.0
 West Bengal,20200425,571.0,103.0,18.0
+National Total,20200425,24893.0,5210.0,779.0
 Andaman and Nicobar Islands,20200426,33.0,11.0,0.0
 Andhra Pradesh,20200426,1097.0,231.0,31.0
 Arunachal Pradesh,20200426,1.0,1.0,0.0
@@ -1313,6 +1372,7 @@ Tripura,20200426,2.0,2.0,0.0
 Uttarakhand,20200426,50.0,26.0,0.0
 Uttar Pradesh,20200426,1843.0,289.0,29.0
 West Bengal,20200426,611.0,105.0,18.0
+National Total,20200426,26605.0,5914.0,826.0
 Andaman and Nicobar Islands,20200427,33.0,11.0,0.0
 Andhra Pradesh,20200427,1177.0,235.0,31.0
 Arunachal Pradesh,20200427,1.0,1.0,0.0
@@ -1345,6 +1405,7 @@ Tripura,20200427,2.0,2.0,0.0
 Uttarakhand,20200427,51.0,33.0,0.0
 Uttar Pradesh,20200427,1955.0,335.0,31.0
 West Bengal,20200427,649.0,105.0,20.0
+National Total,20200427,28160.0,6362.0,886.0
 Andaman and Nicobar Islands,20200428,33.0,11.0,0.0
 Andhra Pradesh,20200428,1259.0,258.0,31.0
 Arunachal Pradesh,20200428,1.0,1.0,0.0
@@ -1377,6 +1438,7 @@ Tripura,20200428,2.0,2.0,0.0
 Uttarakhand,20200428,51.0,33.0,0.0
 Uttar Pradesh,20200428,2043.0,400.0,31.0
 West Bengal,20200428,697.0,109.0,20.0
+National Total,20200428,29834.0,7027.0,937.0
 Andaman and Nicobar Islands,20200429,33.0,15.0,0.0
 Andhra Pradesh,20200429,1332.0,287.0,31.0
 Arunachal Pradesh,20200429,1.0,1.0,0.0
@@ -1409,6 +1471,7 @@ Tripura,20200429,2.0,2.0,0.0
 Uttarakhand,20200429,54.0,34.0,0.0
 Uttar Pradesh,20200429,2115.0,477.0,36.0
 West Bengal,20200429,725.0,119.0,22.0
+National Total,20200429,31709.0,7797.0,1008.0
 Andaman and Nicobar Islands,20200430,33.0,15.0,0.0
 Andhra Pradesh,20200430,1403.0,321.0,31.0
 Arunachal Pradesh,20200430,1.0,1.0,0.0
@@ -1441,6 +1504,7 @@ Tripura,20200430,2.0,2.0,0.0
 Uttarakhand,20200430,55.0,36.0,0.0
 Uttar Pradesh,20200430,2203.0,513.0,39.0
 West Bengal,20200430,758.0,124.0,22.0
+National Total,20200430,33330.0,8373.0,1075.0
 Andaman and Nicobar Islands,20200501,33.0,16.0,0.0
 Andhra Pradesh,20200501,1463.0,403.0,33.0
 Arunachal Pradesh,20200501,1.0,1.0,0.0
@@ -1473,6 +1537,7 @@ Tripura,20200501,2.0,2.0,0.0
 Uttarakhand,20200501,57.0,36.0,0.0
 Uttar Pradesh,20200501,2281.0,555.0,41.0
 West Bengal,20200501,795.0,139.0,33.0
+National Total,20200501,34972.0,9065.0,1152.0
 Andaman and Nicobar Islands,20200502,33.0,16.0,0.0
 Andhra Pradesh,20200502,1525.0,441.0,33.0
 Arunachal Pradesh,20200502,1.0,1.0,0.0
@@ -1505,6 +1570,7 @@ Tripura,20200502,2.0,2.0,0.0
 Uttarakhand,20200502,58.0,37.0,0.0
 Uttar Pradesh,20200502,2455.0,656.0,43.0
 West Bengal,20200502,795.0,139.0,33.0
+National Total,20200502,37671.0,10018.0,1223.0
 Andaman and Nicobar Islands,20200503,33.0,17.0,0.0
 Andhra Pradesh,20200503,1583.0,488.0,33.0
 Arunachal Pradesh,20200503,1.0,1.0,0.0
@@ -1537,6 +1603,7 @@ Tripura,20200503,4.0,2.0,0.0
 Uttarakhand,20200503,59.0,39.0,0.0
 Uttar Pradesh,20200503,2626.0,698.0,43.0
 West Bengal,20200503,922.0,151.0,33.0
+National Total,20200503,40124.0,10887.0,1306.0
 Andaman and Nicobar Islands,20200504,33.0,32.0,0.0
 Andhra Pradesh,20200504,1650.0,524.0,36.0
 Arunachal Pradesh,20200504,1.0,1.0,0.0
@@ -1569,6 +1636,7 @@ Tripura,20200504,16.0,2.0,0.0
 Uttarakhand,20200504,60.0,39.0,1.0
 Uttar Pradesh,20200504,2742.0,758.0,45.0
 West Bengal,20200504,963.0,151.0,35.0
+National Total,20200504,42836.0,11762.0,1389.0
 Andaman and Nicobar Islands,20200505,33.0,32.0,0.0
 Andhra Pradesh,20200505,1717.0,589.0,36.0
 Arunachal Pradesh,20200505,1.0,1.0,0.0
@@ -1601,6 +1669,7 @@ Tripura,20200505,29.0,2.0,0.0
 Uttarakhand,20200505,60.0,39.0,1.0
 Uttar Pradesh,20200505,2859.0,944.0,53.0
 West Bengal,20200505,1259.0,218.0,133.0
+National Total,20200505,46711.0,13161.0,1583.0
 Andaman and Nicobar Islands,20200506,33.0,32.0,0.0
 Andhra Pradesh,20200506,1717.0,589.0,36.0
 Arunachal Pradesh,20200506,1.0,1.0,0.0
@@ -1634,6 +1703,7 @@ Tripura,20200506,43.0,2.0,0.0
 Uttarakhand,20200506,61.0,39.0,1.0
 Uttar Pradesh,20200506,2880.0,987.0,56.0
 West Bengal,20200506,1344.0,364.0,140.0
+National Total,20200506,49391.0,14183.0,1694.0
 Andaman and Nicobar Islands,20200507,33.0,32.0,0.0
 Andhra Pradesh,20200507,1777.0,729.0,36.0
 Arunachal Pradesh,20200507,1.0,1.0,0.0
@@ -1667,6 +1737,7 @@ Tripura,20200507,43.0,2.0,0.0
 Uttarakhand,20200507,61.0,39.0,1.0
 Uttar Pradesh,20200507,2998.0,1130.0,60.0
 West Bengal,20200507,1456.0,364.0,144.0
+National Total,20200507,52952.0,15267.0,1783.0
 Andaman and Nicobar Islands,20200508,33.0,33.0,0.0
 Andhra Pradesh,20200508,1847.0,780.0,38.0
 Arunachal Pradesh,20200508,1.0,1.0,0.0
@@ -1700,6 +1771,7 @@ Tripura,20200508,65.0,2.0,0.0
 Uttarakhand,20200508,61.0,39.0,1.0
 Uttar Pradesh,20200508,3071.0,1250.0,62.0
 West Bengal,20200508,1548.0,364.0,151.0
+National Total,20200508,56342.0,16540.0,1886.0
 Andaman and Nicobar Islands,20200509,33.0,33.0,0.0
 Andhra Pradesh,20200509,1887.0,842.0,41.0
 Arunachal Pradesh,20200509,1.0,1.0,0.0
@@ -1733,6 +1805,7 @@ Tripura,20200509,118.0,2.0,0.0
 Uttarakhand,20200509,63.0,46.0,1.0
 Uttar Pradesh,20200509,3214.0,1387.0,66.0
 West Bengal,20200509,1678.0,364.0,160.0
+National Total,20200509,59662.0,17847.0,1981.0
 Andaman and Nicobar Islands,20200510,33.0,33.0,0.0
 Andhra Pradesh,20200510,1930.0,887.0,44.0
 Arunachal Pradesh,20200510,1.0,1.0,0.0
@@ -1766,6 +1839,7 @@ Tripura,20200510,134.0,2.0,0.0
 Uttarakhand,20200510,67.0,46.0,1.0
 Uttar Pradesh,20200510,3373.0,1499.0,74.0
 West Bengal,20200510,1786.0,372.0,171.0
+National Total,20200510,62939.0,19358.0,2109.0
 Andaman and Nicobar Islands,20200511,33.0,33.0,0.0
 Andhra Pradesh,20200511,1980.0,925.0,45.0
 Arunachal Pradesh,20200511,1.0,1.0,0.0
@@ -1799,6 +1873,7 @@ Tripura,20200511,150.0,2.0,0.0
 Uttarakhand,20200511,68.0,46.0,1.0
 Uttar Pradesh,20200511,3467.0,1653.0,74.0
 West Bengal,20200511,1939.0,417.0,185.0
+National Total,20200511,67152.0,20917.0,2206.0
 Andaman and Nicobar Islands,20200512,33.0,33.0,0.0
 Andhra Pradesh,20200512,2018.0,975.0,45.0
 Arunachal Pradesh,20200512,1.0,1.0,0.0
@@ -1832,6 +1907,7 @@ Tripura,20200512,152.0,2.0,0.0
 Uttarakhand,20200512,68.0,46.0,1.0
 Uttar Pradesh,20200512,3573.0,1758.0,80.0
 West Bengal,20200512,2063.0,499.0,190.0
+National Total,20200512,70769.0,22527.0,2294.0
 Andaman and Nicobar Islands,20200513,33.0,33.0,0.0
 Andhra Pradesh,20200513,2090.0,1056.0,46.0
 Arunachal Pradesh,20200513,1.0,1.0,0.0
@@ -1865,6 +1941,7 @@ Tripura,20200513,154.0,2.0,0.0
 Uttarakhand,20200513,69.0,46.0,1.0
 Uttar Pradesh,20200513,3664.0,1873.0,82.0
 West Bengal,20200513,2173.0,612.0,198.0
+National Total,20200513,74281.0,24386.0,2415.0
 Andaman and Nicobar Islands,20200514,33.0,33.0,0.0
 Andhra Pradesh,20200514,2137.0,1142.0,47.0
 Arunachal Pradesh,20200514,1.0,1.0,0.0
@@ -1898,6 +1975,7 @@ Tripura,20200514,155.0,16.0,0.0
 Uttarakhand,20200514,72.0,46.0,1.0
 Uttar Pradesh,20200514,3729.0,1902.0,83.0
 West Bengal,20200514,2290.0,702.0,207.0
+National Total,20200514,78003.0,26235.0,2549.0
 Andaman and Nicobar Islands,20200515,33.0,33.0,0.0
 Andhra Pradesh,20200515,2205.0,1192.0,48.0
 Arunachal Pradesh,20200515,1.0,1.0,0.0
@@ -1931,6 +2009,7 @@ Tripura,20200515,156.0,29.0,0.0
 Uttarakhand,20200515,78.0,50.0,1.0
 Uttar Pradesh,20200515,3902.0,2072.0,88.0
 West Bengal,20200515,2377.0,768.0,215.0
+National Total,20200515,81970.0,27920.0,2649.0
 Andaman and Nicobar Islands,20200516,33.0,33.0,0.0
 Andhra Pradesh,20200516,2307.0,1252.0,48.0
 Arunachal Pradesh,20200516,1.0,1.0,0.0
@@ -1964,6 +2043,7 @@ Tripura,20200516,156.0,42.0,0.0
 Uttarakhand,20200516,82.0,51.0,1.0
 Uttar Pradesh,20200516,4057.0,2165.0,95.0
 West Bengal,20200516,2461.0,829.0,225.0
+National Total,20200516,85710.0,30153.0,2752.0
 Andaman and Nicobar Islands,20200517,33.0,33.0,0.0
 Andhra Pradesh,20200517,2355.0,1353.0,49.0
 Arunachal Pradesh,20200517,1.0,1.0,0.0
@@ -1997,6 +2077,7 @@ Tripura,20200517,167.0,64.0,0.0
 Uttarakhand,20200517,88.0,51.0,1.0
 Uttar Pradesh,20200517,4258.0,2441.0,104.0
 West Bengal,20200517,2576.0,872.0,232.0
+National Total,20200517,90637.0,34109.0,2872.0
 Andaman and Nicobar Islands,20200518,33.0,33.0,0.0
 Andhra Pradesh,20200518,2407.0,1456.0,50.0
 Arunachal Pradesh,20200518,1.0,1.0,0.0
@@ -2030,6 +2111,7 @@ Tripura,20200518,167.0,85.0,0.0
 Uttarakhand,20200518,92.0,52.0,1.0
 Uttar Pradesh,20200518,4259.0,2441.0,104.0
 West Bengal,20200518,2677.0,959.0,238.0
+National Total,20200518,95759.0,36824.0,3029.0
 Andaman and Nicobar Islands,20200519,33.0,33.0,0.0
 Andhra Pradesh,20200519,2474.0,1552.0,50.0
 Arunachal Pradesh,20200519,1.0,1.0,0.0
@@ -2063,6 +2145,7 @@ Tripura,20200519,167.0,85.0,0.0
 Uttarakhand,20200519,93.0,52.0,1.0
 Uttar Pradesh,20200519,4605.0,2783.0,118.0
 West Bengal,20200519,2825.0,1006.0,244.0
+National Total,20200519,100325.0,39174.0,3163.0
 Andaman and Nicobar Islands,20200520,33.0,33.0,0.0
 Andhra Pradesh,20200520,2532.0,1621.0,52.0
 Arunachal Pradesh,20200520,1.0,1.0,0.0
@@ -2096,6 +2179,7 @@ Tripura,20200520,173.0,116.0,0.0
 Uttarakhand,20200520,111.0,52.0,1.0
 Uttar Pradesh,20200520,4926.0,2918.0,123.0
 West Bengal,20200520,2961.0,1074.0,250.0
+National Total,20200520,105654.0,42298.0,3303.0
 Andaman and Nicobar Islands,20200521,33.0,33.0,0.0
 Andhra Pradesh,20200521,2602.0,1640.0,53.0
 Arunachal Pradesh,20200521,1.0,1.0,0.0
@@ -2129,6 +2213,7 @@ Tripura,20200521,173.0,133.0,0.0
 Uttarakhand,20200521,122.0,53.0,1.0
 Uttar Pradesh,20200521,5175.0,3066.0,127.0
 West Bengal,20200521,3103.0,1136.0,253.0
+National Total,20200521,110956.0,45300.0,3435.0
 Andaman and Nicobar Islands,20200522,33.0,33.0,0.0
 Andhra Pradesh,20200522,2647.0,1709.0,53.0
 Arunachal Pradesh,20200522,1.0,1.0,0.0
@@ -2162,6 +2247,7 @@ Tripura,20200522,173.0,148.0,0.0
 Uttarakhand,20200522,146.0,54.0,1.0
 Uttar Pradesh,20200522,5515.0,3204.0,138.0
 West Bengal,20200522,3197.0,1193.0,259.0
+National Total,20200522,116827.0,48534.0,3583.0
 Andaman and Nicobar Islands,20200523,33.0,33.0,0.0
 Andhra Pradesh,20200523,2709.0,1763.0,55.0
 Arunachal Pradesh,20200523,1.0,1.0,0.0
@@ -2195,6 +2281,7 @@ Tripura,20200523,175.0,152.0,0.0
 Uttarakhand,20200523,153.0,56.0,1.0
 Uttar Pradesh,20200523,5735.0,3238.0,152.0
 West Bengal,20200523,3332.0,1221.0,265.0
+National Total,20200523,123202.0,51784.0,3720.0
 Andaman and Nicobar Islands,20200524,33.0,33.0,0.0
 Andhra Pradesh,20200524,2757.0,1809.0,56.0
 Arunachal Pradesh,20200524,1.0,1.0,0.0
@@ -2228,6 +2315,7 @@ Telangana,20200524,1813.0,1065.0,49.0
 Tripura,20200524,189.0,153.0,0.0
 Uttarakhand,20200524,244.0,56.0,2.0
 Uttar Pradesh,20200524,6017.0,3406.0,155.0
+National Total,20200524,126071.0,53160.0,3598.0
 Andaman and Nicobar Islands,20200525,33.0,33.0,0.0
 Andhra Pradesh,20200525,2823.0,1856.0,56.0
 Arunachal Pradesh,20200525,1.0,1.0,0.0
@@ -2262,6 +2350,7 @@ Tripura,20200525,191.0,165.0,0.0
 Uttarakhand,20200525,317.0,58.0,3.0
 Uttar Pradesh,20200525,6268.0,3538.0,161.0
 West Bengal,20200525,3667.0,1339.0,272.0
+National Total,20200525,136203.0,57721.0,4021.0
 Andaman and Nicobar Islands,20200526,33.0,33.0,0.0
 Andhra Pradesh,20200526,3110.0,1896.0,56.0
 Arunachal Pradesh,20200526,2.0,1.0,0.0
@@ -2297,6 +2386,7 @@ Tripura,20200526,194.0,165.0,0.0
 Uttarakhand,20200526,349.0,58.0,3.0
 Uttar Pradesh,20200526,6532.0,3581.0,165.0
 West Bengal,20200526,3816.0,1414.0,278.0
+National Total,20200526,142410.0,60491.0,4167.0
 Andaman and Nicobar Islands,20200527,33.0,33.0,0.0
 Andhra Pradesh,20200527,3171.0,2009.0,57.0
 Arunachal Pradesh,20200527,2.0,1.0,0.0
@@ -2332,6 +2422,7 @@ Tripura,20200527,207.0,165.0,0.0
 Uttarakhand,20200527,401.0,64.0,4.0
 Uttar Pradesh,20200527,6548.0,3698.0,170.0
 West Bengal,20200527,4009.0,1486.0,283.0
+National Total,20200527,147754.0,64426.0,4337.0
 Andaman and Nicobar Islands,20200528,33.0,33.0,0.0
 Andhra Pradesh,20200528,3171.0,2057.0,58.0
 Arunachal Pradesh,20200528,2.0,1.0,0.0
@@ -2367,6 +2458,7 @@ Tripura,20200528,230.0,165.0,0.0
 Uttarakhand,20200528,469.0,79.0,4.0
 Uttar Pradesh,20200528,6991.0,3991.0,182.0
 West Bengal,20200528,4192.0,1578.0,289.0
+National Total,20200528,154001.0,67692.0,4531.0
 Andaman and Nicobar Islands,20200529,33.0,33.0,0.0
 Andhra Pradesh,20200529,3251.0,2125.0,59.0
 Arunachal Pradesh,20200529,3.0,1.0,0.0
@@ -2402,6 +2494,7 @@ Tripura,20200529,242.0,167.0,0.0
 Uttarakhand,20200529,500.0,79.0,4.0
 Uttar Pradesh,20200529,7170.0,4215.0,197.0
 West Bengal,20200529,4536.0,1668.0,295.0
+National Total,20200529,161126.0,71106.0,4706.0
 Andaman and Nicobar Islands,20200530,33.0,33.0,0.0
 Andhra Pradesh,20200530,3436.0,2226.0,60.0
 Arunachal Pradesh,20200530,3.0,1.0,0.0
@@ -2437,6 +2530,7 @@ Tripura,20200530,251.0,171.0,0.0
 Uttarakhand,20200530,716.0,102.0,5.0
 Uttar Pradesh,20200530,7284.0,4244.0,198.0
 West Bengal,20200530,4813.0,1775.0,302.0
+National Total,20200530,168720.0,82370.0,4971.0
 Andaman and Nicobar Islands,20200531,33.0,33.0,0.0
 Andhra Pradesh,20200531,3569.0,2289.0,60.0
 Arunachal Pradesh,20200531,4.0,1.0,0.0
@@ -2472,6 +2566,7 @@ Tripura,20200531,268.0,172.0,0.0
 Uttarakhand,20200531,749.0,102.0,5.0
 Uttar Pradesh,20200531,7445.0,4410.0,201.0
 West Bengal,20200531,5130.0,1970.0,309.0
+National Total,20200531,176652.0,86984.0,5164.0
 Andaman and Nicobar Islands,20200601,33.0,33.0,0.0
 Andhra Pradesh,20200601,3679.0,2349.0,62.0
 Arunachal Pradesh,20200601,4.0,1.0,0.0
@@ -2507,6 +2602,7 @@ Tripura,20200601,313.0,173.0,0.0
 Uttarakhand,20200601,907.0,102.0,5.0
 Uttar Pradesh,20200601,7823.0,4709.0,213.0
 West Bengal,20200601,5501.0,2157.0,317.0
+National Total,20200601,184905.0,91819.0,5394.0
 Andaman and Nicobar Islands,20200602,33.0,33.0,0.0
 Andhra Pradesh,20200602,3783.0,2378.0,64.0
 Arunachal Pradesh,20200602,22.0,1.0,0.0
@@ -2542,6 +2638,7 @@ Tripura,20200602,420.0,173.0,0.0
 Uttarakhand,20200602,958.0,222.0,6.0
 Uttar Pradesh,20200602,8075.0,4843.0,217.0
 West Bengal,20200602,5772.0,2306.0,325.0
+National Total,20200602,192292.0,95527.0,5598.0
 Andaman and Nicobar Islands,20200603,33.0,33.0,0.0
 Andhra Pradesh,20200603,3898.0,2421.0,64.0
 Arunachal Pradesh,20200603,22.0,1.0,0.0
@@ -2577,6 +2674,7 @@ Tripura,20200603,468.0,173.0,0.0
 Uttarakhand,20200603,1043.0,252.0,7.0
 Uttar Pradesh,20200603,8361.0,5030.0,222.0
 West Bengal,20200603,6168.0,2410.0,335.0
+National Total,20200603,200492.0,100303.0,5815.0
 Andaman and Nicobar Islands,20200604,33.0,33.0,0.0
 Andhra Pradesh,20200604,4080.0,2466.0,68.0
 Arunachal Pradesh,20200604,38.0,1.0,0.0
@@ -2612,6 +2710,7 @@ Tripura,20200604,468.0,173.0,0.0
 Uttarakhand,20200604,1085.0,282.0,8.0
 Uttar Pradesh,20200604,8729.0,5176.0,229.0
 West Bengal,20200604,6508.0,2580.0,345.0
+National Total,20200604,209436.0,104107.0,6075.0
 Andaman and Nicobar Islands,20200605,33.0,33.0,0.0
 Andhra Pradesh,20200605,4223.0,2539.0,71.0
 Arunachal Pradesh,20200605,42.0,1.0,0.0
@@ -2647,6 +2746,7 @@ Tripura,20200605,644.0,173.0,0.0
 Uttarakhand,20200605,1153.0,297.0,10.0
 Uttar Pradesh,20200605,9237.0,5439.0,245.0
 West Bengal,20200605,6876.0,2768.0,355.0
+National Total,20200605,219160.0,109462.0,6348.0
 Andaman and Nicobar Islands,20200606,33.0,33.0,0.0
 Andhra Pradesh,20200606,4303.0,2576.0,73.0
 Arunachal Pradesh,20200606,45.0,1.0,0.0
@@ -2682,6 +2782,7 @@ Tripura,20200606,692.0,173.0,0.0
 Uttarakhand,20200606,1215.0,344.0,11.0
 Uttar Pradesh,20200606,9733.0,5648.0,257.0
 West Bengal,20200606,7303.0,2912.0,366.0
+National Total,20200606,228465.0,114073.0,6642.0
 Andaman and Nicobar Islands,20200607,33.0,33.0,0.0
 Andhra Pradesh,20200607,4510.0,2620.0,73.0
 Arunachal Pradesh,20200607,47.0,1.0,0.0
@@ -2717,6 +2818,7 @@ Tripura,20200607,747.0,173.0,0.0
 Uttarakhand,20200607,1303.0,423.0,11.0
 Uttar Pradesh,20200607,9733.0,5648.0,257.0
 West Bengal,20200607,7738.0,3119.0,383.0
+National Total,20200607,238023.0,119293.0,6929.0
 Andaman and Nicobar Islands,20200608,33.0,33.0,0.0
 Andhra Pradesh,20200608,4708.0,2682.0,75.0
 Arunachal Pradesh,20200608,51.0,1.0,0.0
@@ -2752,6 +2854,7 @@ Tripura,20200608,800.0,192.0,0.0
 Uttarakhand,20200608,1355.0,528.0,13.0
 Uttar Pradesh,20200608,10536.0,6185.0,275.0
 West Bengal,20200608,8187.0,3303.0,396.0
+National Total,20200608,248774.0,124430.0,7200.0
 Andaman and Nicobar Islands,20200609,33.0,33.0,0.0
 Andhra Pradesh,20200609,4851.0,2745.0,75.0
 Arunachal Pradesh,20200609,51.0,1.0,0.0
@@ -2787,6 +2890,7 @@ Tripura,20200609,838.0,192.0,0.0
 Uttarakhand,20200609,1411.0,714.0,13.0
 Uttar Pradesh,20200609,10947.0,6344.0,283.0
 West Bengal,20200609,8613.0,3465.0,405.0
+National Total,20200609,257795.0,129215.0,7466.0
 Andaman and Nicobar Islands,20200610,33.0,33.0,0.0
 Andhra Pradesh,20200610,5070.0,2802.0,77.0
 Arunachal Pradesh,20200610,57.0,1.0,0.0
@@ -2822,6 +2926,7 @@ Tripura,20200610,864.0,192.0,1.0
 Uttarakhand,20200610,1537.0,755.0,13.0
 Uttar Pradesh,20200610,11335.0,6669.0,301.0
 West Bengal,20200610,8985.0,3620.0,415.0
+National Total,20200610,267356.0,135206.0,7745.0
 Andaman and Nicobar Islands,20200611,34.0,33.0,0.0
 Andhra Pradesh,20200611,5269.0,2899.0,78.0
 Arunachal Pradesh,20200611,57.0,2.0,0.0
@@ -2857,6 +2962,7 @@ Tripura,20200611,895.0,239.0,1.0
 Uttarakhand,20200611,1562.0,831.0,15.0
 Uttar Pradesh,20200611,11610.0,6871.0,321.0
 West Bengal,20200611,9328.0,3779.0,432.0
+National Total,20200611,277648.0,141029.0,8102.0
 Andaman and Nicobar Islands,20200612,38.0,33.0,0.0
 Andhra Pradesh,20200612,5429.0,3048.0,80.0
 Arunachal Pradesh,20200612,61.0,4.0,0.0
@@ -2892,6 +2998,7 @@ Tripura,20200612,913.0,278.0,1.0
 Uttarakhand,20200612,1643.0,842.0,15.0
 Uttar Pradesh,20200612,12088.0,7292.0,345.0
 West Bengal,20200612,9768.0,3988.0,442.0
+National Total,20200612,289220.0,147195.0,8498.0
 Andaman and Nicobar Islands,20200613,38.0,33.0,0.0
 Andhra Pradesh,20200613,5680.0,3105.0,80.0
 Arunachal Pradesh,20200613,67.0,4.0,0.0
@@ -2927,6 +3034,7 @@ Tripura,20200613,961.0,278.0,1.0
 Uttarakhand,20200613,1724.0,947.0,21.0
 Uttar Pradesh,20200613,12616.0,7609.0,365.0
 West Bengal,20200613,10244.0,4206.0,451.0
+National Total,20200613,301009.0,154330.0,8884.0
 Andaman and Nicobar Islands,20200614,38.0,33.0,0.0
 Andhra Pradesh,20200614,5965.0,3195.0,82.0
 Arunachal Pradesh,20200614,87.0,4.0,0.0
@@ -2962,6 +3070,7 @@ Tripura,20200614,1046.0,315.0,1.0
 Uttarakhand,20200614,1785.0,1077.0,23.0
 Uttar Pradesh,20200614,13118.0,7875.0,385.0
 West Bengal,20200614,10698.0,4542.0,463.0
+National Total,20200614,313486.0,162379.0,9195.0
 Andaman and Nicobar Islands,20200615,38.0,33.0,0.0
 Andhra Pradesh,20200615,6163.0,3314.0,84.0
 Arunachal Pradesh,20200615,91.0,7.0,0.0
@@ -2997,6 +3106,7 @@ Tripura,20200615,1076.0,315.0,1.0
 Uttarakhand,20200615,1819.0,1111.0,24.0
 Uttar Pradesh,20200615,13615.0,8268.0,399.0
 West Bengal,20200615,11087.0,5060.0,475.0
+National Total,20200615,325452.0,169798.0,9520.0
 Andaman and Nicobar Islands,20200616,41.0,33.0,0.0
 Andhra Pradesh,20200616,6456.0,3316.0,88.0
 Arunachal Pradesh,20200616,91.0,7.0,0.0
@@ -3032,6 +3142,7 @@ Tripura,20200616,1086.0,433.0,1.0
 Uttarakhand,20200616,1845.0,1189.0,24.0
 Uttar Pradesh,20200616,13615.0,8268.0,399.0
 West Bengal,20200616,11494.0,5494.0,485.0
+National Total,20200616,335407.0,180013.0,9900.0
 Andaman and Nicobar Islands,20200617,44.0,33.0,0.0
 Andhra Pradesh,20200617,6841.0,3509.0,88.0
 Arunachal Pradesh,20200617,95.0,7.0,0.0
@@ -3067,6 +3178,7 @@ Tripura,20200617,1092.0,433.0,1.0
 Uttarakhand,20200617,1942.0,1216.0,25.0
 Uttar Pradesh,20200617,14091.0,8610.0,417.0
 West Bengal,20200617,11909.0,6028.0,495.0
+National Total,20200617,345792.0,186935.0,11903.0
 Andaman and Nicobar Islands,20200618,44.0,33.0,0.0
 Andhra Pradesh,20200618,7071.0,3641.0,90.0
 Arunachal Pradesh,20200618,99.0,7.0,0.0
@@ -3102,6 +3214,7 @@ Tripura,20200618,1135.0,556.0,1.0
 Uttarakhand,20200618,2023.0,1254.0,26.0
 Uttar Pradesh,20200618,14598.0,8904.0,435.0
 West Bengal,20200618,12300.0,6533.0,506.0
+National Total,20200618,358243.0,194325.0,12237.0
 Andaman and Nicobar Islands,20200619,44.0,33.0,0.0
 Andhra Pradesh,20200619,7518.0,3789.0,92.0
 Arunachal Pradesh,20200619,103.0,10.0,0.0
@@ -3137,6 +3250,7 @@ Tripura,20200619,1155.0,639.0,1.0
 Uttarakhand,20200619,2102.0,1386.0,26.0
 Uttar Pradesh,20200619,15181.0,9239.0,465.0
 West Bengal,20200619,12735.0,7001.0,518.0
+National Total,20200619,371605.0,204711.0,12573.0
 Andaman and Nicobar Islands,20200620,45.0,35.0,0.0
 Andhra Pradesh,20200620,7961.0,3917.0,96.0
 Arunachal Pradesh,20200620,103.0,11.0,0.0
@@ -3172,6 +3286,7 @@ Tripura,20200620,1178.0,657.0,1.0
 Uttarakhand,20200620,2177.0,1433.0,26.0
 Uttar Pradesh,20200620,15785.0,9638.0,488.0
 West Bengal,20200620,13090.0,7303.0,529.0
+National Total,20200620,385783.0,213831.0,12948.0
 Andaman and Nicobar Islands,20200621,47.0,36.0,0.0
 Andhra Pradesh,20200621,8452.0,4111.0,101.0
 Arunachal Pradesh,20200621,135.0,14.0,0.0
@@ -3207,6 +3322,7 @@ Tripura,20200621,1186.0,680.0,1.0
 Uttarakhand,20200621,2301.0,1450.0,27.0
 Uttar Pradesh,20200621,16594.0,9995.0,507.0
 West Bengal,20200621,13531.0,7865.0,540.0
+National Total,20200621,401334.0,227756.0,13254.0
 Andaman and Nicobar Islands,20200622,48.0,37.0,0.0
 Andhra Pradesh,20200622,8999.0,4331.0,106.0
 Arunachal Pradesh,20200622,135.0,15.0,0.0
@@ -3242,6 +3358,7 @@ Tripura,20200622,1221.0,759.0,1.0
 Uttarakhand,20200622,2344.0,1500.0,27.0
 Uttar Pradesh,20200622,17731.0,10995.0,550.0
 West Bengal,20200622,13945.0,8297.0,555.0
+National Total,20200622,417450.0,237196.0,13699.0
 Andaman and Nicobar Islands,20200623,48.0,37.0,0.0
 Andhra Pradesh,20200623,9372.0,4495.0,111.0
 Arunachal Pradesh,20200623,139.0,21.0,0.0
@@ -3277,6 +3394,7 @@ Tripura,20200623,1237.0,782.0,1.0
 Uttarakhand,20200623,2402.0,1521.0,28.0
 Uttar Pradesh,20200623,18322.0,11601.0,569.0
 West Bengal,20200623,14358.0,8687.0,569.0
+National Total,20200623,432200.0,248190.0,14011.0
 Andaman and Nicobar Islands,20200624,50.0,40.0,0.0
 Andhra Pradesh,20200624,10002.0,4599.0,119.0
 Arunachal Pradesh,20200624,148.0,22.0,0.0
@@ -3312,6 +3430,7 @@ Tripura,20200624,1259.0,807.0,1.0
 Uttarakhand,20200624,2535.0,1602.0,30.0
 Uttar Pradesh,20200624,18893.0,12116.0,588.0
 West Bengal,20200624,14728.0,9218.0,580.0
+National Total,20200624,448042.0,258685.0,14476.0
 Andaman and Nicobar Islands,20200625,56.0,43.0,0.0
 Andhra Pradesh,20200625,10331.0,4779.0,124.0
 Arunachal Pradesh,20200625,158.0,38.0,0.0
@@ -3347,6 +3466,7 @@ Tripura,20200625,1259.0,897.0,1.0
 Uttarakhand,20200625,2623.0,1721.0,35.0
 Uttar Pradesh,20200625,19557.0,12586.0,596.0
 West Bengal,20200625,15173.0,9702.0,591.0
+National Total,20200625,464612.0,271697.0,14894.0
 Andaman and Nicobar Islands,20200626,59.0,43.0,0.0
 Andhra Pradesh,20200626,10884.0,4988.0,136.0
 Arunachal Pradesh,20200626,160.0,38.0,1.0
@@ -3382,6 +3502,7 @@ Tripura,20200626,1290.0,1019.0,1.0
 Uttarakhand,20200626,2691.0,1758.0,36.0
 Uttar Pradesh,20200626,20193.0,13119.0,611.0
 West Bengal,20200626,15648.0,10190.0,606.0
+National Total,20200626,482278.0,285637.0,15301.0
 Andaman and Nicobar Islands,20200627,72.0,43.0,0.0
 Andhra Pradesh,20200627,11489.0,5196.0,148.0
 Arunachal Pradesh,20200627,172.0,42.0,1.0
@@ -3417,6 +3538,7 @@ Tripura,20200627,1325.0,1055.0,1.0
 Uttarakhand,20200627,2725.0,1822.0,37.0
 Uttar Pradesh,20200627,20943.0,13583.0,630.0
 West Bengal,20200627,16190.0,10535.0,616.0
+National Total,20200627,500930.0,295881.0,15685.0
 Andaman and Nicobar Islands,20200628,72.0,43.0,0.0
 Andhra Pradesh,20200628,12285.0,5480.0,157.0
 Arunachal Pradesh,20200628,177.0,54.0,1.0
@@ -3452,6 +3574,7 @@ Tripura,20200628,1334.0,1071.0,1.0
 Uttarakhand,20200628,2791.0,1912.0,37.0
 Uttar Pradesh,20200628,21549.0,14215.0,649.0
 West Bengal,20200628,16711.0,10789.0,629.0
+National Total,20200628,521020.0,309713.0,16095.0
 Andaman and Nicobar Islands,20200629,76.0,45.0,0.0
 Andhra Pradesh,20200629,13241.0,5908.0,169.0
 Arunachal Pradesh,20200629,182.0,60.0,1.0
@@ -3487,6 +3610,7 @@ Tripura,20200629,1346.0,1079.0,1.0
 Uttarakhand,20200629,2823.0,2018.0,38.0
 Uttar Pradesh,20200629,22147.0,14808.0,660.0
 West Bengal,20200629,17283.0,11193.0,639.0
+National Total,20200629,541033.0,321723.0,16475.0
 Andaman and Nicobar Islands,20200630,90.0,46.0,0.0
 Andhra Pradesh,20200630,13891.0,6232.0,180.0
 Arunachal Pradesh,20200630,187.0,61.0,1.0
@@ -3522,6 +3646,7 @@ Tripura,20200630,1380.0,1085.0,1.0
 Uttarakhand,20200630,2831.0,2111.0,39.0
 Uttar Pradesh,20200630,22828.0,15506.0,672.0
 West Bengal,20200630,17907.0,11719.0,653.0
+National Total,20200630,559836.0,334822.0,16893.0
 Andaman and Nicobar Islands,20200701,97.0,50.0,0.0
 Andhra Pradesh,20200701,14595.0,6511.0,187.0
 Arunachal Pradesh,20200701,191.0,62.0,1.0
@@ -3557,6 +3682,7 @@ Tripura,20200701,1388.0,1086.0,1.0
 Uttarakhand,20200701,2881.0,2231.0,41.0
 Uttar Pradesh,20200701,23492.0,16084.0,697.0
 West Bengal,20200701,18559.0,12130.0,668.0
+National Total,20200701,578578.0,347979.0,17400.0
 Andaman and Nicobar Islands,20200702,100.0,50.0,0.0
 Andhra Pradesh,20200702,15252.0,6988.0,193.0
 Arunachal Pradesh,20200702,195.0,66.0,1.0
@@ -3592,6 +3718,7 @@ Tripura,20200702,1396.0,1093.0,1.0
 Uttarakhand,20200702,2947.0,2317.0,41.0
 Uttar Pradesh,20200702,24056.0,16629.0,718.0
 West Bengal,20200702,19170.0,12528.0,683.0
+National Total,20200702,597809.0,359860.0,17834.0
 Andaman and Nicobar Islands,20200703,109.0,51.0,0.0
 Andhra Pradesh,20200703,16097.0,7313.0,198.0
 Arunachal Pradesh,20200703,195.0,66.0,1.0
@@ -3627,6 +3754,7 @@ Tripura,20200703,1435.0,1146.0,1.0
 Uttarakhand,20200703,2984.0,2405.0,42.0
 Uttar Pradesh,20200703,24825.0,17221.0,735.0
 West Bengal,20200703,19819.0,13037.0,699.0
+National Total,20200703,619513.0,379892.0,18213.0
 Andaman and Nicobar Islands,20200704,116.0,54.0,0.0
 Andhra Pradesh,20200704,16934.0,7632.0,206.0
 Arunachal Pradesh,20200704,252.0,75.0,1.0
@@ -3662,6 +3790,7 @@ Tripura,20200704,1525.0,1199.0,1.0
 Uttarakhand,20200704,3048.0,2481.0,42.0
 Uttar Pradesh,20200704,25797.0,17597.0,749.0
 West Bengal,20200704,20488.0,13571.0,717.0
+National Total,20200704,643316.0,394227.0,18655.0
 Andaman and Nicobar Islands,20200705,119.0,66.0,0.0
 Andhra Pradesh,20200705,17699.0,8008.0,218.0
 Arunachal Pradesh,20200705,259.0,76.0,1.0
@@ -3697,6 +3826,7 @@ Tripura,20200705,1546.0,1202.0,1.0
 Uttarakhand,20200705,3093.0,2502.0,42.0
 Uttar Pradesh,20200705,26554.0,18154.0,773.0
 West Bengal,20200705,21231.0,14166.0,736.0
+National Total,20200705,668536.0,409083.0,19268.0
 Andaman and Nicobar Islands,20200706,125.0,72.0,0.0
 Andhra Pradesh,20200706,18697.0,8422.0,232.0
 Arunachal Pradesh,20200706,269.0,78.0,1.0
@@ -3732,6 +3862,7 @@ Tripura,20200706,1568.0,1202.0,1.0
 Uttarakhand,20200706,3124.0,2524.0,42.0
 Uttar Pradesh,20200706,27707.0,18761.0,785.0
 West Bengal,20200706,22126.0,14711.0,757.0
+National Total,20200706,692500.0,424433.0,19693.0
 Andaman and Nicobar Islands,20200707,141.0,74.0,0.0
 Andhra Pradesh,20200707,20019.0,8920.0,239.0
 Arunachal Pradesh,20200707,270.0,92.0,2.0
@@ -3767,6 +3898,7 @@ Tripura,20200707,1680.0,1219.0,1.0
 Uttarakhand,20200707,3161.0,2586.0,42.0
 Uttar Pradesh,20200707,28636.0,19109.0,809.0
 West Bengal,20200707,22987.0,15235.0,779.0
+National Total,20200707,714631.0,439948.0,20160.0
 Andaman and Nicobar Islands,20200708,147.0,75.0,0.0
 Andhra Pradesh,20200708,21197.0,9745.0,252.0
 Arunachal Pradesh,20200708,276.0,105.0,2.0
@@ -3802,38 +3934,4 @@ Tripura,20200708,1704.0,1248.0,1.0
 Uttarakhand,20200708,3230.0,2621.0,43.0
 Uttar Pradesh,20200708,29968.0,19627.0,827.0
 West Bengal,20200708,23837.0,15790.0,804.0
-Andaman and Nicobar Islands,20200709,149.0,77.0,0.0
-Andhra Pradesh,20200709,22259.0,11101.0,264.0
-Arunachal Pradesh,20200709,287.0,109.0,2.0
-Assam,20200709,13336.0,8729.0,16.0
-Bihar,20200709,13189.0,9554.0,107.0
-Chandigarh,20200709,513.0,402.0,7.0
-Chhattisgarh,20200709,3525.0,2835.0,14.0
-Dadra and Nagar Haveli and Daman and Diu,20200709,408.0,184.0,0.0
-Delhi,20200709,104864.0,78199.0,3213.0
-Goa,20200709,2039.0,1207.0,8.0
-Gujarat,20200709,38333.0,27289.0,1993.0
-Haryana,20200709,18690.0,14106.0,282.0
-Himachal Pradesh,20200709,1101.0,833.0,11.0
-Jammu and Kashmir,20200709,9261.0,5567.0,149.0
-Jharkhand,20200709,3096.0,2170.0,22.0
-Karnataka,20200709,28877.0,11876.0,470.0
-Kerala,20200709,6195.0,3559.0,27.0
-Ladakh,20200709,1041.0,836.0,1.0
-Madhya Pradesh,20200709,16036.0,11987.0,629.0
-Maharashtra,20200709,223724.0,123192.0,9448.0
-Manipur,20200709,1435.0,793.0,0.0
-Meghalaya,20200709,80.0,43.0,1.0
-Mizoram,20200709,197.0,133.0,0.0
-Nagaland,20200709,657.0,304.0,0.0
-Odisha,20200709,10624.0,7006.0,48.0
-Puducherry,20200709,1008.0,480.0,14.0
-Punjab,20200709,6907.0,4828.0,178.0
-Rajasthan,20200709,22063.0,16866.0,482.0
-Sikkim,20200709,133.0,71.0,0.0
-Tamil Nadu,20200709,122350.0,74167.0,1700.0
-Telangana,20200709,29536.0,17279.0,324.0
-Tripura,20200709,1761.0,1324.0,1.0
-Uttarakhand,20200709,3258.0,2650.0,46.0
-Uttar Pradesh,20200709,31156.0,20331.0,845.0
-West Bengal,20200709,24823.0,16291.0,827.0
+National Total,20200708,737399.0,456831.0,20642.0

@@ -25,16 +25,16 @@ df_ind.drop(index=df_ind[df_ind['Region']=='National Total'].index, inplace=True
 # backup the old data and update new datasource for the bubble chart
 dtg = str(datetime.now())
 dtg = dtg.split()[0]
-cmd = f'mv ./bubble/data/complete_modified_date.csv ./bubble/data/complete_modified_date_{dtg}.csv'
+cmd = f'move bubble\data\complete_modified_date.csv bubble\data\complete_modified_date_{dtg}.csv'
 os.system(cmd)
-df_ind.to_csv('./bubble/data/complete_modified_date.csv', index=False)
+df_ind.to_csv('bubble\data\complete_modified_date.csv', index=False)
 print('Bubble chart data updated')
 
 # For the Rank Chart, we use the same data made for Bubble Chart
 # --------------------
-cmd = f'mv ./ranking/data/complete_modified_date.csv ./ranking/data/complete_modified_date_{dtg}.csv'
+cmd = f'move ranking\data\complete_modified_date.csv ranking\data\complete_modified_date_{dtg}.csv'
 os.system(cmd)
-cmd = f'cp ./bubble/data/complete_modified_date.csv ./ranking/data/complete_modified_date.csv'
+cmd = f'copy bubble\data\complete_modified_date.csv ranking\data\complete_modified_date.csv'
 os.system(cmd)
 print('Rank chart data updated')
 
@@ -51,9 +51,9 @@ df_ind=df.reindex(columns=cols)
 # df_ind.drop(index=df_ind[df_ind['Region']=='National Total'].index, inplace=True)
 
 # backup the old data and update new datasource for the line chart
-cmd = f'mv ./line/data/complete_modified_date.csv ./line/data/complete_modified_date_{dtg}.csv'
+cmd = f'move line\data\complete_modified_date.csv line\data\complete_modified_date_{dtg}.csv'
 os.system(cmd)
-df_ind.to_csv('./line/data/complete_modified_date.csv', index=False)
+df_ind.to_csv('line\data\complete_modified_date.csv', index=False)
 print('Line chart data updated')
 
 print('Completed successfully')
